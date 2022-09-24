@@ -28,6 +28,20 @@ def class_count(dataset, classes):
             class_count[label] = 0
         class_count[label] += 1
     return class_count
+    
+def channel_means(data_loader):
+    
+    channels_sum, num_batches = 0,0
+
+    for data, target in data_loader:
+        
+        channels_sum += torch.mean(data,dim=[0,2,3])
+        # print(torch.mean(data,dim=[0,2,3]))
+        
+        num_batches +=1
+        
+    mean = channels_sum/num_batches
+    return mean
 
 def show_images(max_batch_num):
 
@@ -70,14 +84,23 @@ def plot_acc(train_acc, test_acc, save_path = None):
     if save_path != None:
         plt.savefig(save_path)
 
-def data_preprocessing():
-    
-    transform_train = transforms.Compose([
-        transforms.RandomCrop(32, padding=4),
-        transforms.RandomHorizontalFlip(),
-        transforms.ToTensor(),
-        transforms.Normalize((0.4914, 0.4822, 0.4465), (0.2023, 0.1994, 0.2010)),
-    ])
+def data_preprocessing(randomerasing_value = None):
+     
+    if randomerasing_value == None:
+        transform_train = transforms.Compose([
+            transforms.RandomCrop(32, padding=4),
+            transforms.RandomHorizontalFlip(),
+            transforms.ToTensor(),
+            transforms.Normalize((0.4914, 0.4822, 0.4465), (0.2023, 0.1994, 0.2010)),
+        ])
+    else:
+        transform_train = transforms.Compose([
+            transforms.RandomCrop(32, padding=4),
+            transforms.RandomHorizontalFlip(),
+            transforms.ToTensor(),
+            transforms.Normalize((0.4914, 0.4822, 0.4465), (0.2023, 0.1994, 0.2010)),
+            transforms.RandomErasing(p=1, scale=(0.02, 0.33), ratio=(0.3, 3.3), value=randomerasing_value, inplace=False)
+        ])
 
     transform_test = transforms.Compose([
         transforms.ToTensor(),
@@ -90,16 +113,18 @@ def data_preprocessing():
     classes = dataset.classes
 
     train_set, val_set = torch.utils.data.random_split(dataset, [train_set_size, val_set_size])
+    
+    data_loader = torch.utils.data.DataLoader(dataset, batch_size = batch_size, shuffle = True, num_workers = 1)
 
     train_loader = torch.utils.data.DataLoader(train_set, batch_size = batch_size, shuffle = True, num_workers = 1)
     val_loader = torch.utils.data.DataLoader(val_set, batch_size = batch_size * 2, shuffle = False, num_workers = 1)
     test_loader = torch.utils.data.DataLoader(test_set, batch_size = batch_size * 2, shuffle = False, num_workers = 1)
 
-    print("train_set:", class_count(train_set, classes))
+    # print("train_set:", class_count(train_set, classes))
     # print("val_set:", class_count(val_set, classes))
     # print("test_set:", class_count(test_set, classes))
     
-    return train_loader, val_loader, test_loader
+    return data_loader, train_loader, val_loader, test_loader
 
 # Training
 def train(epoch, net, criterion, trainloader, scheduler, optimizer):
@@ -130,7 +155,6 @@ def train(epoch, net, criterion, trainloader, scheduler, optimizer):
 
         if (batch_idx+1) % 50 == 0:
           print("iteration : %3d, loss : %0.4f, accuracy : %2.2f" % (batch_idx+1, train_loss/(batch_idx+1), 100.*correct/total))
-        break
 
     scheduler.step()
     return train_loss/(batch_idx+1), 100.*correct/total
@@ -314,30 +338,38 @@ if __name__ == "__main__":
     else:
         device = torch.device("cpu")
         
-    train_loader, val_loader, test_loader = data_preprocessing()
+    data_loader, _, _, _ = data_preprocessing()
 
+    means = tuple([float(x) for x in channel_means(data_loader)])
+    # print(means)
+    
+    data_loader, train_loader, val_loader, test_loader = data_preprocessing(means)
+    
     net = ResNet18().to(device)
     criterion = nn.CrossEntropyLoss().to(device)
-    optimizer = optim.SGD(net.parameters(), lr=config['lr'], momentum=config['momentum'])
+    optimizer = optim.SGD(net.parameters(), lr=config['lr'], momentum=config['momentum'], weight_decay=config['weight_decay'])
     scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=200)
 
     epoch_train_loss = []
-    epoch_test_loss = []
+    epoch_val_loss = []
     epoch_train_acc = []
-    epoch_test_acc = []
+    epoch_val_acc = []
 
     for epoch in range(1, config['epoch'] + 1):
         train_loss, train_acc = train(epoch, net, criterion, train_loader, scheduler, optimizer)
-        test_loss, test_acc = test(epoch, net, criterion, val_loader)
+        val_loss, val_acc = test(epoch, net, criterion, val_loader)
         
         epoch_train_loss.append(train_loss)
-        epoch_test_loss.append(test_loss)
+        epoch_val_loss.append(val_loss)
         epoch_train_acc.append(train_acc)
-        epoch_test_acc.append(test_acc)
+        epoch_val_acc.append(val_acc)
         
         print(("Epoch : %3d, training loss : %0.4f, training accuracy : %2.2f, valicate loss " + \
-          ": %0.4f, valicate accuracy : %2.2f") % (epoch, train_loss, train_acc, test_loss, test_acc))
+          ": %0.4f, valicate accuracy : %2.2f") % (epoch, train_loss, train_acc, val_loss, val_acc))
 
         
-    plot_loss(epoch_train_loss, epoch_test_loss, "loss_epoch_300_cosine_annealing.jpg")
-    plot_acc(epoch_train_acc, epoch_test_acc, "acc_epoch_300_cosine_annealing.jpg")
+    plot_loss(epoch_train_loss, epoch_val_loss, "loss_epoch_300_cosine_annealing_weight_decay_random_erasing.jpg")
+    plot_acc(epoch_train_acc, epoch_val_acc, "acc_epoch_300_cosine_annealing_weight_decay_random_erasing.jpg")
+    
+    test_loss, test_acc = test(epoch, net, criterion, test_loader)
+    print(("test loss : %0.4f, test accuracy : %2.2f") % (test_loss, test_acc))
