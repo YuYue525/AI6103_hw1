@@ -1,0 +1,2702 @@
+Files already downloaded and verified
+Files already downloaded and verified
+
+Epoch: 1
+iteration :  50, loss : 1.9845, accuracy : 26.48
+iteration : 100, loss : 1.8038, accuracy : 33.12
+iteration : 150, loss : 1.7000, accuracy : 37.43
+iteration : 200, loss : 1.6244, accuracy : 40.15
+iteration : 250, loss : 1.5607, accuracy : 42.60
+iteration : 300, loss : 1.5023, accuracy : 44.86
+Epoch :   1, training loss : 1.4896, training accuracy : 45.36, valicate loss : 1.2923, valicate accuracy : 55.27
+
+Epoch: 2
+iteration :  50, loss : 1.1501, accuracy : 59.12
+iteration : 100, loss : 1.1060, accuracy : 60.73
+iteration : 150, loss : 1.0783, accuracy : 61.60
+iteration : 200, loss : 1.0559, accuracy : 62.38
+iteration : 250, loss : 1.0340, accuracy : 63.09
+iteration : 300, loss : 1.0126, accuracy : 63.98
+Epoch :   2, training loss : 1.0058, training accuracy : 64.24, valicate loss : 0.9786, valicate accuracy : 66.76
+
+Epoch: 3
+iteration :  50, loss : 0.8468, accuracy : 69.78
+iteration : 100, loss : 0.8261, accuracy : 70.82
+iteration : 150, loss : 0.8140, accuracy : 71.14
+iteration : 200, loss : 0.8039, accuracy : 71.61
+iteration : 250, loss : 0.7939, accuracy : 72.03
+iteration : 300, loss : 0.7807, accuracy : 72.61
+Epoch :   3, training loss : 0.7775, training accuracy : 72.70, valicate loss : 0.9195, valicate accuracy : 69.08
+
+Epoch: 4
+iteration :  50, loss : 0.6897, accuracy : 76.27
+iteration : 100, loss : 0.6758, accuracy : 76.65
+iteration : 150, loss : 0.6791, accuracy : 76.47
+iteration : 200, loss : 0.6739, accuracy : 76.50
+iteration : 250, loss : 0.6750, accuracy : 76.37
+iteration : 300, loss : 0.6681, accuracy : 76.69
+Epoch :   4, training loss : 0.6672, training accuracy : 76.72, valicate loss : 0.7117, valicate accuracy : 75.17
+
+Epoch: 5
+iteration :  50, loss : 0.5985, accuracy : 79.41
+iteration : 100, loss : 0.5868, accuracy : 79.75
+iteration : 150, loss : 0.5861, accuracy : 79.79
+iteration : 200, loss : 0.5815, accuracy : 79.87
+iteration : 250, loss : 0.5834, accuracy : 79.74
+iteration : 300, loss : 0.5800, accuracy : 79.84
+Epoch :   5, training loss : 0.5790, training accuracy : 79.81, valicate loss : 0.7034, valicate accuracy : 76.21
+
+Epoch: 6
+iteration :  50, loss : 0.5156, accuracy : 82.02
+iteration : 100, loss : 0.5173, accuracy : 82.21
+iteration : 150, loss : 0.5218, accuracy : 81.93
+iteration : 200, loss : 0.5180, accuracy : 82.03
+iteration : 250, loss : 0.5192, accuracy : 81.92
+iteration : 300, loss : 0.5191, accuracy : 81.92
+Epoch :   6, training loss : 0.5189, training accuracy : 81.91, valicate loss : 0.7772, valicate accuracy : 75.18
+
+Epoch: 7
+iteration :  50, loss : 0.4471, accuracy : 84.61
+iteration : 100, loss : 0.4605, accuracy : 83.99
+iteration : 150, loss : 0.4592, accuracy : 84.01
+iteration : 200, loss : 0.4635, accuracy : 83.85
+iteration : 250, loss : 0.4642, accuracy : 83.80
+iteration : 300, loss : 0.4646, accuracy : 83.74
+Epoch :   7, training loss : 0.4653, training accuracy : 83.72, valicate loss : 0.5841, valicate accuracy : 80.23
+
+Epoch: 8
+iteration :  50, loss : 0.4157, accuracy : 85.11
+iteration : 100, loss : 0.4281, accuracy : 85.02
+iteration : 150, loss : 0.4250, accuracy : 85.19
+iteration : 200, loss : 0.4302, accuracy : 85.06
+iteration : 250, loss : 0.4304, accuracy : 85.08
+iteration : 300, loss : 0.4315, accuracy : 85.07
+Epoch :   8, training loss : 0.4303, training accuracy : 85.12, valicate loss : 0.6217, valicate accuracy : 79.83
+
+Epoch: 9
+iteration :  50, loss : 0.3957, accuracy : 85.84
+iteration : 100, loss : 0.3950, accuracy : 86.16
+iteration : 150, loss : 0.3924, accuracy : 86.23
+iteration : 200, loss : 0.3912, accuracy : 86.37
+iteration : 250, loss : 0.3905, accuracy : 86.34
+iteration : 300, loss : 0.3919, accuracy : 86.30
+Epoch :   9, training loss : 0.3922, training accuracy : 86.27, valicate loss : 0.5096, valicate accuracy : 82.72
+
+Epoch: 10
+iteration :  50, loss : 0.3491, accuracy : 87.81
+iteration : 100, loss : 0.3497, accuracy : 87.88
+iteration : 150, loss : 0.3478, accuracy : 87.95
+iteration : 200, loss : 0.3553, accuracy : 87.78
+iteration : 250, loss : 0.3593, accuracy : 87.58
+iteration : 300, loss : 0.3619, accuracy : 87.45
+Epoch :  10, training loss : 0.3640, training accuracy : 87.37, valicate loss : 0.5679, valicate accuracy : 81.09
+
+Epoch: 11
+iteration :  50, loss : 0.3220, accuracy : 89.39
+iteration : 100, loss : 0.3318, accuracy : 88.75
+iteration : 150, loss : 0.3395, accuracy : 88.35
+iteration : 200, loss : 0.3340, accuracy : 88.43
+iteration : 250, loss : 0.3372, accuracy : 88.28
+iteration : 300, loss : 0.3360, accuracy : 88.30
+Epoch :  11, training loss : 0.3353, training accuracy : 88.32, valicate loss : 0.4822, valicate accuracy : 83.77
+
+Epoch: 12
+iteration :  50, loss : 0.2984, accuracy : 89.52
+iteration : 100, loss : 0.3036, accuracy : 89.39
+iteration : 150, loss : 0.3155, accuracy : 89.02
+iteration : 200, loss : 0.3144, accuracy : 89.04
+iteration : 250, loss : 0.3140, accuracy : 89.07
+iteration : 300, loss : 0.3141, accuracy : 89.15
+Epoch :  12, training loss : 0.3151, training accuracy : 89.12, valicate loss : 0.5911, valicate accuracy : 80.39
+
+Epoch: 13
+iteration :  50, loss : 0.3068, accuracy : 89.50
+iteration : 100, loss : 0.3071, accuracy : 89.59
+iteration : 150, loss : 0.3019, accuracy : 89.73
+iteration : 200, loss : 0.2972, accuracy : 89.88
+iteration : 250, loss : 0.2973, accuracy : 89.81
+iteration : 300, loss : 0.2975, accuracy : 89.74
+Epoch :  13, training loss : 0.2972, training accuracy : 89.74, valicate loss : 0.5414, valicate accuracy : 82.56
+
+Epoch: 14
+iteration :  50, loss : 0.2599, accuracy : 91.00
+iteration : 100, loss : 0.2718, accuracy : 90.63
+iteration : 150, loss : 0.2745, accuracy : 90.43
+iteration : 200, loss : 0.2767, accuracy : 90.39
+iteration : 250, loss : 0.2767, accuracy : 90.34
+iteration : 300, loss : 0.2779, accuracy : 90.31
+Epoch :  14, training loss : 0.2785, training accuracy : 90.30, valicate loss : 0.5095, valicate accuracy : 83.67
+
+Epoch: 15
+iteration :  50, loss : 0.2587, accuracy : 90.58
+iteration : 100, loss : 0.2546, accuracy : 91.02
+iteration : 150, loss : 0.2554, accuracy : 90.93
+iteration : 200, loss : 0.2561, accuracy : 91.02
+iteration : 250, loss : 0.2584, accuracy : 90.92
+iteration : 300, loss : 0.2616, accuracy : 90.78
+Epoch :  15, training loss : 0.2613, training accuracy : 90.79, valicate loss : 0.4762, valicate accuracy : 84.61
+
+Epoch: 16
+iteration :  50, loss : 0.2340, accuracy : 91.45
+iteration : 100, loss : 0.2421, accuracy : 91.41
+iteration : 150, loss : 0.2473, accuracy : 91.31
+iteration : 200, loss : 0.2465, accuracy : 91.15
+iteration : 250, loss : 0.2482, accuracy : 91.12
+iteration : 300, loss : 0.2508, accuracy : 91.09
+Epoch :  16, training loss : 0.2511, training accuracy : 91.08, valicate loss : 0.4489, valicate accuracy : 85.68
+
+Epoch: 17
+iteration :  50, loss : 0.2324, accuracy : 92.14
+iteration : 100, loss : 0.2313, accuracy : 92.24
+iteration : 150, loss : 0.2306, accuracy : 92.10
+iteration : 200, loss : 0.2331, accuracy : 91.96
+iteration : 250, loss : 0.2340, accuracy : 91.87
+iteration : 300, loss : 0.2357, accuracy : 91.80
+Epoch :  17, training loss : 0.2363, training accuracy : 91.78, valicate loss : 0.4699, valicate accuracy : 85.31
+
+Epoch: 18
+iteration :  50, loss : 0.2115, accuracy : 92.42
+iteration : 100, loss : 0.2152, accuracy : 92.27
+iteration : 150, loss : 0.2147, accuracy : 92.34
+iteration : 200, loss : 0.2158, accuracy : 92.36
+iteration : 250, loss : 0.2198, accuracy : 92.23
+iteration : 300, loss : 0.2205, accuracy : 92.26
+Epoch :  18, training loss : 0.2213, training accuracy : 92.25, valicate loss : 0.4852, valicate accuracy : 84.54
+
+Epoch: 19
+iteration :  50, loss : 0.2037, accuracy : 93.17
+iteration : 100, loss : 0.2014, accuracy : 93.07
+iteration : 150, loss : 0.2043, accuracy : 92.93
+iteration : 200, loss : 0.2077, accuracy : 92.78
+iteration : 250, loss : 0.2100, accuracy : 92.65
+iteration : 300, loss : 0.2105, accuracy : 92.62
+Epoch :  19, training loss : 0.2115, training accuracy : 92.58, valicate loss : 0.4127, valicate accuracy : 86.95
+
+Epoch: 20
+iteration :  50, loss : 0.2043, accuracy : 92.67
+iteration : 100, loss : 0.2057, accuracy : 92.75
+iteration : 150, loss : 0.2028, accuracy : 92.85
+iteration : 200, loss : 0.2046, accuracy : 92.80
+iteration : 250, loss : 0.2060, accuracy : 92.71
+iteration : 300, loss : 0.2058, accuracy : 92.77
+Epoch :  20, training loss : 0.2047, training accuracy : 92.80, valicate loss : 0.4391, valicate accuracy : 85.89
+
+Epoch: 21
+iteration :  50, loss : 0.1816, accuracy : 93.64
+iteration : 100, loss : 0.1828, accuracy : 93.66
+iteration : 150, loss : 0.1829, accuracy : 93.66
+iteration : 200, loss : 0.1859, accuracy : 93.60
+iteration : 250, loss : 0.1871, accuracy : 93.55
+iteration : 300, loss : 0.1896, accuracy : 93.45
+Epoch :  21, training loss : 0.1893, training accuracy : 93.47, valicate loss : 0.3890, valicate accuracy : 87.32
+
+Epoch: 22
+iteration :  50, loss : 0.1613, accuracy : 94.06
+iteration : 100, loss : 0.1697, accuracy : 93.87
+iteration : 150, loss : 0.1737, accuracy : 93.71
+iteration : 200, loss : 0.1743, accuracy : 93.70
+iteration : 250, loss : 0.1754, accuracy : 93.67
+iteration : 300, loss : 0.1767, accuracy : 93.67
+Epoch :  22, training loss : 0.1785, training accuracy : 93.63, valicate loss : 0.4998, valicate accuracy : 85.05
+
+Epoch: 23
+iteration :  50, loss : 0.1702, accuracy : 93.84
+iteration : 100, loss : 0.1650, accuracy : 94.12
+iteration : 150, loss : 0.1696, accuracy : 93.95
+iteration : 200, loss : 0.1710, accuracy : 93.91
+iteration : 250, loss : 0.1730, accuracy : 93.82
+iteration : 300, loss : 0.1730, accuracy : 93.86
+Epoch :  23, training loss : 0.1743, training accuracy : 93.82, valicate loss : 0.4274, valicate accuracy : 86.86
+
+Epoch: 24
+iteration :  50, loss : 0.1655, accuracy : 94.28
+iteration : 100, loss : 0.1648, accuracy : 94.45
+iteration : 150, loss : 0.1617, accuracy : 94.48
+iteration : 200, loss : 0.1629, accuracy : 94.39
+iteration : 250, loss : 0.1643, accuracy : 94.28
+iteration : 300, loss : 0.1673, accuracy : 94.20
+Epoch :  24, training loss : 0.1668, training accuracy : 94.21, valicate loss : 0.3878, valicate accuracy : 87.61
+
+Epoch: 25
+iteration :  50, loss : 0.1399, accuracy : 95.25
+iteration : 100, loss : 0.1445, accuracy : 94.96
+iteration : 150, loss : 0.1505, accuracy : 94.72
+iteration : 200, loss : 0.1518, accuracy : 94.70
+iteration : 250, loss : 0.1533, accuracy : 94.59
+iteration : 300, loss : 0.1533, accuracy : 94.61
+Epoch :  25, training loss : 0.1540, training accuracy : 94.58, valicate loss : 0.4371, valicate accuracy : 87.04
+
+Epoch: 26
+iteration :  50, loss : 0.1455, accuracy : 94.56
+iteration : 100, loss : 0.1432, accuracy : 94.80
+iteration : 150, loss : 0.1463, accuracy : 94.67
+iteration : 200, loss : 0.1473, accuracy : 94.71
+iteration : 250, loss : 0.1473, accuracy : 94.73
+iteration : 300, loss : 0.1488, accuracy : 94.72
+Epoch :  26, training loss : 0.1495, training accuracy : 94.69, valicate loss : 0.3733, valicate accuracy : 88.91
+
+Epoch: 27
+iteration :  50, loss : 0.1387, accuracy : 95.11
+iteration : 100, loss : 0.1445, accuracy : 94.95
+iteration : 150, loss : 0.1459, accuracy : 94.89
+iteration : 200, loss : 0.1500, accuracy : 94.63
+iteration : 250, loss : 0.1497, accuracy : 94.64
+iteration : 300, loss : 0.1466, accuracy : 94.73
+Epoch :  27, training loss : 0.1467, training accuracy : 94.72, valicate loss : 0.3864, valicate accuracy : 88.14
+
+Epoch: 28
+iteration :  50, loss : 0.1162, accuracy : 96.05
+iteration : 100, loss : 0.1198, accuracy : 95.84
+iteration : 150, loss : 0.1206, accuracy : 95.76
+iteration : 200, loss : 0.1199, accuracy : 95.77
+iteration : 250, loss : 0.1228, accuracy : 95.63
+iteration : 300, loss : 0.1251, accuracy : 95.56
+Epoch :  28, training loss : 0.1264, training accuracy : 95.52, valicate loss : 0.4254, valicate accuracy : 87.84
+
+Epoch: 29
+iteration :  50, loss : 0.1349, accuracy : 95.41
+iteration : 100, loss : 0.1317, accuracy : 95.38
+iteration : 150, loss : 0.1282, accuracy : 95.51
+iteration : 200, loss : 0.1281, accuracy : 95.47
+iteration : 250, loss : 0.1291, accuracy : 95.43
+iteration : 300, loss : 0.1333, accuracy : 95.25
+Epoch :  29, training loss : 0.1334, training accuracy : 95.25, valicate loss : 0.4614, valicate accuracy : 86.36
+
+Epoch: 30
+iteration :  50, loss : 0.1133, accuracy : 95.86
+iteration : 100, loss : 0.1114, accuracy : 95.95
+iteration : 150, loss : 0.1136, accuracy : 95.90
+iteration : 200, loss : 0.1181, accuracy : 95.74
+iteration : 250, loss : 0.1208, accuracy : 95.70
+iteration : 300, loss : 0.1231, accuracy : 95.61
+Epoch :  30, training loss : 0.1229, training accuracy : 95.60, valicate loss : 0.3848, valicate accuracy : 88.47
+
+Epoch: 31
+iteration :  50, loss : 0.1092, accuracy : 96.22
+iteration : 100, loss : 0.1091, accuracy : 96.19
+iteration : 150, loss : 0.1084, accuracy : 96.15
+iteration : 200, loss : 0.1104, accuracy : 96.13
+iteration : 250, loss : 0.1132, accuracy : 96.01
+iteration : 300, loss : 0.1141, accuracy : 95.91
+Epoch :  31, training loss : 0.1138, training accuracy : 95.92, valicate loss : 0.4642, valicate accuracy : 87.04
+
+Epoch: 32
+iteration :  50, loss : 0.1072, accuracy : 96.30
+iteration : 100, loss : 0.1084, accuracy : 96.16
+iteration : 150, loss : 0.1093, accuracy : 96.14
+iteration : 200, loss : 0.1089, accuracy : 96.12
+iteration : 250, loss : 0.1087, accuracy : 96.16
+iteration : 300, loss : 0.1080, accuracy : 96.21
+Epoch :  32, training loss : 0.1077, training accuracy : 96.22, valicate loss : 0.3796, valicate accuracy : 88.54
+
+Epoch: 33
+iteration :  50, loss : 0.1005, accuracy : 96.47
+iteration : 100, loss : 0.0990, accuracy : 96.47
+iteration : 150, loss : 0.0962, accuracy : 96.59
+iteration : 200, loss : 0.0987, accuracy : 96.51
+iteration : 250, loss : 0.1018, accuracy : 96.40
+iteration : 300, loss : 0.1062, accuracy : 96.27
+Epoch :  33, training loss : 0.1076, training accuracy : 96.22, valicate loss : 0.3937, valicate accuracy : 89.02
+
+Epoch: 34
+iteration :  50, loss : 0.0994, accuracy : 96.70
+iteration : 100, loss : 0.0998, accuracy : 96.59
+iteration : 150, loss : 0.1004, accuracy : 96.54
+iteration : 200, loss : 0.1036, accuracy : 96.40
+iteration : 250, loss : 0.1035, accuracy : 96.43
+iteration : 300, loss : 0.1029, accuracy : 96.47
+Epoch :  34, training loss : 0.1033, training accuracy : 96.44, valicate loss : 0.3884, valicate accuracy : 88.58
+
+Epoch: 35
+iteration :  50, loss : 0.0876, accuracy : 96.94
+iteration : 100, loss : 0.0854, accuracy : 96.85
+iteration : 150, loss : 0.0892, accuracy : 96.70
+iteration : 200, loss : 0.0919, accuracy : 96.66
+iteration : 250, loss : 0.0973, accuracy : 96.48
+iteration : 300, loss : 0.0999, accuracy : 96.43
+Epoch :  35, training loss : 0.1007, training accuracy : 96.37, valicate loss : 0.3878, valicate accuracy : 88.78
+
+Epoch: 36
+iteration :  50, loss : 0.0934, accuracy : 96.50
+iteration : 100, loss : 0.0855, accuracy : 96.90
+iteration : 150, loss : 0.0844, accuracy : 97.02
+iteration : 200, loss : 0.0847, accuracy : 97.01
+iteration : 250, loss : 0.0869, accuracy : 96.95
+iteration : 300, loss : 0.0878, accuracy : 96.91
+Epoch :  36, training loss : 0.0891, training accuracy : 96.88, valicate loss : 0.4842, valicate accuracy : 87.63
+
+Epoch: 37
+iteration :  50, loss : 0.0927, accuracy : 96.70
+iteration : 100, loss : 0.0951, accuracy : 96.54
+iteration : 150, loss : 0.0929, accuracy : 96.66
+iteration : 200, loss : 0.0923, accuracy : 96.68
+iteration : 250, loss : 0.0952, accuracy : 96.57
+iteration : 300, loss : 0.0984, accuracy : 96.50
+Epoch :  37, training loss : 0.0982, training accuracy : 96.51, valicate loss : 0.3986, valicate accuracy : 88.18
+
+Epoch: 38
+iteration :  50, loss : 0.0962, accuracy : 96.69
+iteration : 100, loss : 0.0919, accuracy : 96.88
+iteration : 150, loss : 0.0882, accuracy : 96.96
+iteration : 200, loss : 0.0904, accuracy : 96.84
+iteration : 250, loss : 0.0905, accuracy : 96.91
+iteration : 300, loss : 0.0908, accuracy : 96.88
+Epoch :  38, training loss : 0.0906, training accuracy : 96.89, valicate loss : 0.3776, valicate accuracy : 89.18
+
+Epoch: 39
+iteration :  50, loss : 0.0813, accuracy : 97.23
+iteration : 100, loss : 0.0851, accuracy : 97.07
+iteration : 150, loss : 0.0818, accuracy : 97.21
+iteration : 200, loss : 0.0823, accuracy : 97.15
+iteration : 250, loss : 0.0830, accuracy : 97.09
+iteration : 300, loss : 0.0830, accuracy : 97.08
+Epoch :  39, training loss : 0.0831, training accuracy : 97.08, valicate loss : 0.4354, valicate accuracy : 88.20
+
+Epoch: 40
+iteration :  50, loss : 0.0729, accuracy : 97.52
+iteration : 100, loss : 0.0754, accuracy : 97.40
+iteration : 150, loss : 0.0769, accuracy : 97.31
+iteration : 200, loss : 0.0755, accuracy : 97.30
+iteration : 250, loss : 0.0760, accuracy : 97.28
+iteration : 300, loss : 0.0764, accuracy : 97.30
+Epoch :  40, training loss : 0.0773, training accuracy : 97.29, valicate loss : 0.3785, valicate accuracy : 89.28
+
+Epoch: 41
+iteration :  50, loss : 0.0741, accuracy : 97.52
+iteration : 100, loss : 0.0756, accuracy : 97.28
+iteration : 150, loss : 0.0779, accuracy : 97.27
+iteration : 200, loss : 0.0764, accuracy : 97.33
+iteration : 250, loss : 0.0764, accuracy : 97.31
+iteration : 300, loss : 0.0752, accuracy : 97.38
+Epoch :  41, training loss : 0.0750, training accuracy : 97.39, valicate loss : 0.3703, valicate accuracy : 89.59
+
+Epoch: 42
+iteration :  50, loss : 0.0638, accuracy : 97.84
+iteration : 100, loss : 0.0684, accuracy : 97.64
+iteration : 150, loss : 0.0671, accuracy : 97.71
+iteration : 200, loss : 0.0695, accuracy : 97.62
+iteration : 250, loss : 0.0707, accuracy : 97.57
+iteration : 300, loss : 0.0721, accuracy : 97.52
+Epoch :  42, training loss : 0.0725, training accuracy : 97.50, valicate loss : 0.3881, valicate accuracy : 89.33
+
+Epoch: 43
+iteration :  50, loss : 0.0641, accuracy : 98.02
+iteration : 100, loss : 0.0615, accuracy : 98.01
+iteration : 150, loss : 0.0596, accuracy : 98.08
+iteration : 200, loss : 0.0606, accuracy : 98.04
+iteration : 250, loss : 0.0666, accuracy : 97.83
+iteration : 300, loss : 0.0698, accuracy : 97.71
+Epoch :  43, training loss : 0.0698, training accuracy : 97.71, valicate loss : 0.3929, valicate accuracy : 89.85
+
+Epoch: 44
+iteration :  50, loss : 0.0621, accuracy : 97.58
+iteration : 100, loss : 0.0690, accuracy : 97.51
+iteration : 150, loss : 0.0681, accuracy : 97.64
+iteration : 200, loss : 0.0674, accuracy : 97.65
+iteration : 250, loss : 0.0662, accuracy : 97.75
+iteration : 300, loss : 0.0676, accuracy : 97.67
+Epoch :  44, training loss : 0.0691, training accuracy : 97.62, valicate loss : 0.4901, valicate accuracy : 87.02
+
+Epoch: 45
+iteration :  50, loss : 0.0698, accuracy : 97.61
+iteration : 100, loss : 0.0695, accuracy : 97.59
+iteration : 150, loss : 0.0676, accuracy : 97.62
+iteration : 200, loss : 0.0662, accuracy : 97.70
+iteration : 250, loss : 0.0659, accuracy : 97.70
+iteration : 300, loss : 0.0670, accuracy : 97.66
+Epoch :  45, training loss : 0.0674, training accuracy : 97.65, valicate loss : 0.4110, valicate accuracy : 88.87
+
+Epoch: 46
+iteration :  50, loss : 0.0644, accuracy : 97.75
+iteration : 100, loss : 0.0637, accuracy : 97.74
+iteration : 150, loss : 0.0633, accuracy : 97.76
+iteration : 200, loss : 0.0630, accuracy : 97.79
+iteration : 250, loss : 0.0640, accuracy : 97.74
+iteration : 300, loss : 0.0653, accuracy : 97.72
+Epoch :  46, training loss : 0.0648, training accuracy : 97.73, valicate loss : 0.3400, valicate accuracy : 90.46
+
+Epoch: 47
+iteration :  50, loss : 0.0599, accuracy : 97.95
+iteration : 100, loss : 0.0597, accuracy : 98.00
+iteration : 150, loss : 0.0572, accuracy : 98.13
+iteration : 200, loss : 0.0584, accuracy : 98.07
+iteration : 250, loss : 0.0576, accuracy : 98.11
+iteration : 300, loss : 0.0580, accuracy : 98.09
+Epoch :  47, training loss : 0.0583, training accuracy : 98.08, valicate loss : 0.3824, valicate accuracy : 89.62
+
+Epoch: 48
+iteration :  50, loss : 0.0539, accuracy : 98.03
+iteration : 100, loss : 0.0560, accuracy : 98.06
+iteration : 150, loss : 0.0575, accuracy : 98.07
+iteration : 200, loss : 0.0562, accuracy : 98.14
+iteration : 250, loss : 0.0570, accuracy : 98.03
+iteration : 300, loss : 0.0582, accuracy : 98.01
+Epoch :  48, training loss : 0.0586, training accuracy : 97.98, valicate loss : 0.3695, valicate accuracy : 90.22
+
+Epoch: 49
+iteration :  50, loss : 0.0572, accuracy : 98.05
+iteration : 100, loss : 0.0571, accuracy : 97.95
+iteration : 150, loss : 0.0624, accuracy : 97.76
+iteration : 200, loss : 0.0651, accuracy : 97.65
+iteration : 250, loss : 0.0678, accuracy : 97.59
+iteration : 300, loss : 0.0681, accuracy : 97.60
+Epoch :  49, training loss : 0.0678, training accuracy : 97.62, valicate loss : 0.3720, valicate accuracy : 89.57
+
+Epoch: 50
+iteration :  50, loss : 0.0500, accuracy : 98.38
+iteration : 100, loss : 0.0504, accuracy : 98.27
+iteration : 150, loss : 0.0517, accuracy : 98.20
+iteration : 200, loss : 0.0528, accuracy : 98.18
+iteration : 250, loss : 0.0552, accuracy : 98.08
+iteration : 300, loss : 0.0561, accuracy : 98.06
+Epoch :  50, training loss : 0.0564, training accuracy : 98.05, valicate loss : 0.4297, valicate accuracy : 88.73
+
+Epoch: 51
+iteration :  50, loss : 0.0530, accuracy : 98.19
+iteration : 100, loss : 0.0519, accuracy : 98.20
+iteration : 150, loss : 0.0540, accuracy : 98.17
+iteration : 200, loss : 0.0555, accuracy : 98.15
+iteration : 250, loss : 0.0548, accuracy : 98.16
+iteration : 300, loss : 0.0561, accuracy : 98.09
+Epoch :  51, training loss : 0.0565, training accuracy : 98.08, valicate loss : 0.3602, valicate accuracy : 90.07
+
+Epoch: 52
+iteration :  50, loss : 0.0458, accuracy : 98.50
+iteration : 100, loss : 0.0482, accuracy : 98.41
+iteration : 150, loss : 0.0460, accuracy : 98.53
+iteration : 200, loss : 0.0459, accuracy : 98.51
+iteration : 250, loss : 0.0487, accuracy : 98.39
+iteration : 300, loss : 0.0500, accuracy : 98.35
+Epoch :  52, training loss : 0.0500, training accuracy : 98.33, valicate loss : 0.3824, valicate accuracy : 89.69
+
+Epoch: 53
+iteration :  50, loss : 0.0468, accuracy : 98.38
+iteration : 100, loss : 0.0505, accuracy : 98.30
+iteration : 150, loss : 0.0491, accuracy : 98.31
+iteration : 200, loss : 0.0489, accuracy : 98.34
+iteration : 250, loss : 0.0497, accuracy : 98.32
+iteration : 300, loss : 0.0501, accuracy : 98.29
+Epoch :  53, training loss : 0.0499, training accuracy : 98.28, valicate loss : 0.3547, valicate accuracy : 90.39
+
+Epoch: 54
+iteration :  50, loss : 0.0416, accuracy : 98.50
+iteration : 100, loss : 0.0425, accuracy : 98.52
+iteration : 150, loss : 0.0428, accuracy : 98.54
+iteration : 200, loss : 0.0438, accuracy : 98.50
+iteration : 250, loss : 0.0474, accuracy : 98.37
+iteration : 300, loss : 0.0494, accuracy : 98.30
+Epoch :  54, training loss : 0.0495, training accuracy : 98.28, valicate loss : 0.3637, valicate accuracy : 90.19
+
+Epoch: 55
+iteration :  50, loss : 0.0552, accuracy : 98.08
+iteration : 100, loss : 0.0502, accuracy : 98.34
+iteration : 150, loss : 0.0471, accuracy : 98.49
+iteration : 200, loss : 0.0460, accuracy : 98.51
+iteration : 250, loss : 0.0466, accuracy : 98.47
+iteration : 300, loss : 0.0475, accuracy : 98.41
+Epoch :  55, training loss : 0.0476, training accuracy : 98.40, valicate loss : 0.3747, valicate accuracy : 90.17
+
+Epoch: 56
+iteration :  50, loss : 0.0448, accuracy : 98.33
+iteration : 100, loss : 0.0452, accuracy : 98.40
+iteration : 150, loss : 0.0432, accuracy : 98.50
+iteration : 200, loss : 0.0428, accuracy : 98.54
+iteration : 250, loss : 0.0422, accuracy : 98.57
+iteration : 300, loss : 0.0432, accuracy : 98.51
+Epoch :  56, training loss : 0.0444, training accuracy : 98.47, valicate loss : 0.4042, valicate accuracy : 89.50
+
+Epoch: 57
+iteration :  50, loss : 0.0496, accuracy : 98.31
+iteration : 100, loss : 0.0449, accuracy : 98.47
+iteration : 150, loss : 0.0446, accuracy : 98.47
+iteration : 200, loss : 0.0452, accuracy : 98.45
+iteration : 250, loss : 0.0456, accuracy : 98.43
+iteration : 300, loss : 0.0479, accuracy : 98.35
+Epoch :  57, training loss : 0.0484, training accuracy : 98.34, valicate loss : 0.3918, valicate accuracy : 89.88
+
+Epoch: 58
+iteration :  50, loss : 0.0509, accuracy : 98.36
+iteration : 100, loss : 0.0446, accuracy : 98.56
+iteration : 150, loss : 0.0434, accuracy : 98.60
+iteration : 200, loss : 0.0447, accuracy : 98.53
+iteration : 250, loss : 0.0442, accuracy : 98.55
+iteration : 300, loss : 0.0448, accuracy : 98.52
+Epoch :  58, training loss : 0.0451, training accuracy : 98.51, valicate loss : 0.3618, valicate accuracy : 90.35
+
+Epoch: 59
+iteration :  50, loss : 0.0410, accuracy : 98.69
+iteration : 100, loss : 0.0396, accuracy : 98.80
+iteration : 150, loss : 0.0383, accuracy : 98.81
+iteration : 200, loss : 0.0388, accuracy : 98.78
+iteration : 250, loss : 0.0390, accuracy : 98.75
+iteration : 300, loss : 0.0395, accuracy : 98.72
+Epoch :  59, training loss : 0.0404, training accuracy : 98.71, valicate loss : 0.3844, valicate accuracy : 89.87
+
+Epoch: 60
+iteration :  50, loss : 0.0513, accuracy : 98.19
+iteration : 100, loss : 0.0474, accuracy : 98.32
+iteration : 150, loss : 0.0447, accuracy : 98.45
+iteration : 200, loss : 0.0436, accuracy : 98.53
+iteration : 250, loss : 0.0429, accuracy : 98.56
+iteration : 300, loss : 0.0429, accuracy : 98.52
+Epoch :  60, training loss : 0.0430, training accuracy : 98.52, valicate loss : 0.3757, valicate accuracy : 89.69
+
+Epoch: 61
+iteration :  50, loss : 0.0456, accuracy : 98.45
+iteration : 100, loss : 0.0446, accuracy : 98.59
+iteration : 150, loss : 0.0421, accuracy : 98.64
+iteration : 200, loss : 0.0405, accuracy : 98.69
+iteration : 250, loss : 0.0419, accuracy : 98.65
+iteration : 300, loss : 0.0422, accuracy : 98.65
+Epoch :  61, training loss : 0.0424, training accuracy : 98.63, valicate loss : 0.3975, valicate accuracy : 89.90
+
+Epoch: 62
+iteration :  50, loss : 0.0431, accuracy : 98.58
+iteration : 100, loss : 0.0425, accuracy : 98.62
+iteration : 150, loss : 0.0366, accuracy : 98.85
+iteration : 200, loss : 0.0341, accuracy : 98.93
+iteration : 250, loss : 0.0339, accuracy : 98.93
+iteration : 300, loss : 0.0343, accuracy : 98.92
+Epoch :  62, training loss : 0.0345, training accuracy : 98.89, valicate loss : 0.4073, valicate accuracy : 89.44
+
+Epoch: 63
+iteration :  50, loss : 0.0364, accuracy : 98.77
+iteration : 100, loss : 0.0390, accuracy : 98.64
+iteration : 150, loss : 0.0348, accuracy : 98.84
+iteration : 200, loss : 0.0343, accuracy : 98.87
+iteration : 250, loss : 0.0352, accuracy : 98.81
+iteration : 300, loss : 0.0368, accuracy : 98.76
+Epoch :  63, training loss : 0.0367, training accuracy : 98.76, valicate loss : 0.3928, valicate accuracy : 90.23
+
+Epoch: 64
+iteration :  50, loss : 0.0343, accuracy : 99.06
+iteration : 100, loss : 0.0330, accuracy : 98.95
+iteration : 150, loss : 0.0333, accuracy : 98.91
+iteration : 200, loss : 0.0355, accuracy : 98.80
+iteration : 250, loss : 0.0367, accuracy : 98.76
+iteration : 300, loss : 0.0379, accuracy : 98.73
+Epoch :  64, training loss : 0.0379, training accuracy : 98.73, valicate loss : 0.3712, valicate accuracy : 90.43
+
+Epoch: 65
+iteration :  50, loss : 0.0331, accuracy : 98.84
+iteration : 100, loss : 0.0337, accuracy : 98.88
+iteration : 150, loss : 0.0352, accuracy : 98.86
+iteration : 200, loss : 0.0343, accuracy : 98.90
+iteration : 250, loss : 0.0344, accuracy : 98.90
+iteration : 300, loss : 0.0335, accuracy : 98.91
+Epoch :  65, training loss : 0.0332, training accuracy : 98.92, valicate loss : 0.3521, valicate accuracy : 90.87
+
+Epoch: 66
+iteration :  50, loss : 0.0307, accuracy : 99.03
+iteration : 100, loss : 0.0275, accuracy : 99.15
+iteration : 150, loss : 0.0306, accuracy : 99.01
+iteration : 200, loss : 0.0338, accuracy : 98.89
+iteration : 250, loss : 0.0337, accuracy : 98.89
+iteration : 300, loss : 0.0340, accuracy : 98.92
+Epoch :  66, training loss : 0.0337, training accuracy : 98.92, valicate loss : 0.3499, valicate accuracy : 90.78
+
+Epoch: 67
+iteration :  50, loss : 0.0228, accuracy : 99.39
+iteration : 100, loss : 0.0252, accuracy : 99.34
+iteration : 150, loss : 0.0256, accuracy : 99.29
+iteration : 200, loss : 0.0272, accuracy : 99.19
+iteration : 250, loss : 0.0272, accuracy : 99.16
+iteration : 300, loss : 0.0275, accuracy : 99.16
+Epoch :  67, training loss : 0.0278, training accuracy : 99.16, valicate loss : 0.3466, valicate accuracy : 90.93
+
+Epoch: 68
+iteration :  50, loss : 0.0269, accuracy : 99.09
+iteration : 100, loss : 0.0257, accuracy : 99.15
+iteration : 150, loss : 0.0267, accuracy : 99.12
+iteration : 200, loss : 0.0270, accuracy : 99.14
+iteration : 250, loss : 0.0265, accuracy : 99.17
+iteration : 300, loss : 0.0266, accuracy : 99.18
+Epoch :  68, training loss : 0.0268, training accuracy : 99.17, valicate loss : 0.3743, valicate accuracy : 90.51
+
+Epoch: 69
+iteration :  50, loss : 0.0253, accuracy : 99.16
+iteration : 100, loss : 0.0269, accuracy : 99.14
+iteration : 150, loss : 0.0270, accuracy : 99.12
+iteration : 200, loss : 0.0278, accuracy : 99.06
+iteration : 250, loss : 0.0277, accuracy : 99.06
+iteration : 300, loss : 0.0283, accuracy : 99.05
+Epoch :  69, training loss : 0.0286, training accuracy : 99.05, valicate loss : 0.3592, valicate accuracy : 90.51
+
+Epoch: 70
+iteration :  50, loss : 0.0267, accuracy : 99.16
+iteration : 100, loss : 0.0237, accuracy : 99.29
+iteration : 150, loss : 0.0245, accuracy : 99.25
+iteration : 200, loss : 0.0268, accuracy : 99.14
+iteration : 250, loss : 0.0268, accuracy : 99.14
+iteration : 300, loss : 0.0270, accuracy : 99.13
+Epoch :  70, training loss : 0.0269, training accuracy : 99.13, valicate loss : 0.3767, valicate accuracy : 90.20
+
+Epoch: 71
+iteration :  50, loss : 0.0233, accuracy : 99.22
+iteration : 100, loss : 0.0273, accuracy : 99.03
+iteration : 150, loss : 0.0278, accuracy : 99.02
+iteration : 200, loss : 0.0267, accuracy : 99.10
+iteration : 250, loss : 0.0269, accuracy : 99.11
+iteration : 300, loss : 0.0274, accuracy : 99.11
+Epoch :  71, training loss : 0.0274, training accuracy : 99.11, valicate loss : 0.3462, valicate accuracy : 90.99
+
+Epoch: 72
+iteration :  50, loss : 0.0296, accuracy : 99.03
+iteration : 100, loss : 0.0282, accuracy : 99.09
+iteration : 150, loss : 0.0283, accuracy : 99.10
+iteration : 200, loss : 0.0295, accuracy : 99.04
+iteration : 250, loss : 0.0292, accuracy : 99.06
+iteration : 300, loss : 0.0284, accuracy : 99.09
+Epoch :  72, training loss : 0.0283, training accuracy : 99.09, valicate loss : 0.3646, valicate accuracy : 90.47
+
+Epoch: 73
+iteration :  50, loss : 0.0249, accuracy : 99.19
+iteration : 100, loss : 0.0266, accuracy : 99.13
+iteration : 150, loss : 0.0280, accuracy : 99.10
+iteration : 200, loss : 0.0277, accuracy : 99.08
+iteration : 250, loss : 0.0296, accuracy : 99.01
+iteration : 300, loss : 0.0301, accuracy : 99.02
+Epoch :  73, training loss : 0.0309, training accuracy : 99.00, valicate loss : 0.3622, valicate accuracy : 90.41
+
+Epoch: 74
+iteration :  50, loss : 0.0331, accuracy : 98.95
+iteration : 100, loss : 0.0290, accuracy : 99.07
+iteration : 150, loss : 0.0285, accuracy : 99.04
+iteration : 200, loss : 0.0296, accuracy : 99.02
+iteration : 250, loss : 0.0311, accuracy : 98.97
+iteration : 300, loss : 0.0305, accuracy : 98.98
+Epoch :  74, training loss : 0.0306, training accuracy : 98.98, valicate loss : 0.3741, valicate accuracy : 90.64
+
+Epoch: 75
+iteration :  50, loss : 0.0246, accuracy : 99.30
+iteration : 100, loss : 0.0249, accuracy : 99.24
+iteration : 150, loss : 0.0258, accuracy : 99.19
+iteration : 200, loss : 0.0247, accuracy : 99.24
+iteration : 250, loss : 0.0242, accuracy : 99.25
+iteration : 300, loss : 0.0243, accuracy : 99.26
+Epoch :  75, training loss : 0.0243, training accuracy : 99.27, valicate loss : 0.3396, valicate accuracy : 91.07
+
+Epoch: 76
+iteration :  50, loss : 0.0210, accuracy : 99.45
+iteration : 100, loss : 0.0198, accuracy : 99.44
+iteration : 150, loss : 0.0195, accuracy : 99.46
+iteration : 200, loss : 0.0209, accuracy : 99.38
+iteration : 250, loss : 0.0224, accuracy : 99.31
+iteration : 300, loss : 0.0232, accuracy : 99.29
+Epoch :  76, training loss : 0.0239, training accuracy : 99.28, valicate loss : 0.3781, valicate accuracy : 90.62
+
+Epoch: 77
+iteration :  50, loss : 0.0352, accuracy : 98.88
+iteration : 100, loss : 0.0295, accuracy : 99.08
+iteration : 150, loss : 0.0284, accuracy : 99.16
+iteration : 200, loss : 0.0285, accuracy : 99.14
+iteration : 250, loss : 0.0273, accuracy : 99.16
+iteration : 300, loss : 0.0269, accuracy : 99.18
+Epoch :  77, training loss : 0.0267, training accuracy : 99.17, valicate loss : 0.3553, valicate accuracy : 90.82
+
+Epoch: 78
+iteration :  50, loss : 0.0248, accuracy : 99.33
+iteration : 100, loss : 0.0245, accuracy : 99.30
+iteration : 150, loss : 0.0240, accuracy : 99.30
+iteration : 200, loss : 0.0229, accuracy : 99.35
+iteration : 250, loss : 0.0231, accuracy : 99.32
+iteration : 300, loss : 0.0238, accuracy : 99.27
+Epoch :  78, training loss : 0.0237, training accuracy : 99.27, valicate loss : 0.3917, valicate accuracy : 90.46
+
+Epoch: 79
+iteration :  50, loss : 0.0162, accuracy : 99.61
+iteration : 100, loss : 0.0159, accuracy : 99.59
+iteration : 150, loss : 0.0174, accuracy : 99.47
+iteration : 200, loss : 0.0177, accuracy : 99.48
+iteration : 250, loss : 0.0187, accuracy : 99.45
+iteration : 300, loss : 0.0201, accuracy : 99.41
+Epoch :  79, training loss : 0.0209, training accuracy : 99.38, valicate loss : 0.3511, valicate accuracy : 90.58
+
+Epoch: 80
+iteration :  50, loss : 0.0250, accuracy : 99.34
+iteration : 100, loss : 0.0240, accuracy : 99.34
+iteration : 150, loss : 0.0230, accuracy : 99.33
+iteration : 200, loss : 0.0219, accuracy : 99.37
+iteration : 250, loss : 0.0211, accuracy : 99.38
+iteration : 300, loss : 0.0220, accuracy : 99.34
+Epoch :  80, training loss : 0.0222, training accuracy : 99.33, valicate loss : 0.3837, valicate accuracy : 90.31
+
+Epoch: 81
+iteration :  50, loss : 0.0247, accuracy : 99.19
+iteration : 100, loss : 0.0214, accuracy : 99.34
+iteration : 150, loss : 0.0204, accuracy : 99.34
+iteration : 200, loss : 0.0196, accuracy : 99.40
+iteration : 250, loss : 0.0193, accuracy : 99.41
+iteration : 300, loss : 0.0197, accuracy : 99.40
+Epoch :  81, training loss : 0.0197, training accuracy : 99.40, valicate loss : 0.3307, valicate accuracy : 91.27
+
+Epoch: 82
+iteration :  50, loss : 0.0174, accuracy : 99.53
+iteration : 100, loss : 0.0188, accuracy : 99.44
+iteration : 150, loss : 0.0189, accuracy : 99.43
+iteration : 200, loss : 0.0182, accuracy : 99.46
+iteration : 250, loss : 0.0175, accuracy : 99.49
+iteration : 300, loss : 0.0180, accuracy : 99.47
+Epoch :  82, training loss : 0.0183, training accuracy : 99.47, valicate loss : 0.3740, valicate accuracy : 90.91
+
+Epoch: 83
+iteration :  50, loss : 0.0201, accuracy : 99.39
+iteration : 100, loss : 0.0195, accuracy : 99.42
+iteration : 150, loss : 0.0198, accuracy : 99.41
+iteration : 200, loss : 0.0206, accuracy : 99.37
+iteration : 250, loss : 0.0205, accuracy : 99.37
+iteration : 300, loss : 0.0204, accuracy : 99.38
+Epoch :  83, training loss : 0.0204, training accuracy : 99.39, valicate loss : 0.3560, valicate accuracy : 91.08
+
+Epoch: 84
+iteration :  50, loss : 0.0172, accuracy : 99.58
+iteration : 100, loss : 0.0157, accuracy : 99.60
+iteration : 150, loss : 0.0150, accuracy : 99.60
+iteration : 200, loss : 0.0156, accuracy : 99.52
+iteration : 250, loss : 0.0157, accuracy : 99.53
+iteration : 300, loss : 0.0163, accuracy : 99.50
+Epoch :  84, training loss : 0.0165, training accuracy : 99.49, valicate loss : 0.3819, valicate accuracy : 90.84
+
+Epoch: 85
+iteration :  50, loss : 0.0200, accuracy : 99.33
+iteration : 100, loss : 0.0180, accuracy : 99.45
+iteration : 150, loss : 0.0172, accuracy : 99.49
+iteration : 200, loss : 0.0175, accuracy : 99.47
+iteration : 250, loss : 0.0172, accuracy : 99.47
+iteration : 300, loss : 0.0185, accuracy : 99.43
+Epoch :  85, training loss : 0.0188, training accuracy : 99.42, valicate loss : 0.3812, valicate accuracy : 90.82
+
+Epoch: 86
+iteration :  50, loss : 0.0286, accuracy : 99.16
+iteration : 100, loss : 0.0286, accuracy : 99.14
+iteration : 150, loss : 0.0273, accuracy : 99.19
+iteration : 200, loss : 0.0269, accuracy : 99.18
+iteration : 250, loss : 0.0270, accuracy : 99.15
+iteration : 300, loss : 0.0262, accuracy : 99.17
+Epoch :  86, training loss : 0.0257, training accuracy : 99.19, valicate loss : 0.3593, valicate accuracy : 90.81
+
+Epoch: 87
+iteration :  50, loss : 0.0148, accuracy : 99.61
+iteration : 100, loss : 0.0141, accuracy : 99.58
+iteration : 150, loss : 0.0152, accuracy : 99.54
+iteration : 200, loss : 0.0157, accuracy : 99.52
+iteration : 250, loss : 0.0166, accuracy : 99.49
+iteration : 300, loss : 0.0165, accuracy : 99.51
+Epoch :  87, training loss : 0.0164, training accuracy : 99.52, valicate loss : 0.3797, valicate accuracy : 90.74
+
+Epoch: 88
+iteration :  50, loss : 0.0142, accuracy : 99.67
+iteration : 100, loss : 0.0132, accuracy : 99.67
+iteration : 150, loss : 0.0139, accuracy : 99.62
+iteration : 200, loss : 0.0143, accuracy : 99.60
+iteration : 250, loss : 0.0146, accuracy : 99.57
+iteration : 300, loss : 0.0145, accuracy : 99.57
+Epoch :  88, training loss : 0.0145, training accuracy : 99.57, valicate loss : 0.3455, valicate accuracy : 91.37
+
+Epoch: 89
+iteration :  50, loss : 0.0153, accuracy : 99.50
+iteration : 100, loss : 0.0150, accuracy : 99.52
+iteration : 150, loss : 0.0148, accuracy : 99.55
+iteration : 200, loss : 0.0154, accuracy : 99.53
+iteration : 250, loss : 0.0158, accuracy : 99.51
+iteration : 300, loss : 0.0156, accuracy : 99.51
+Epoch :  89, training loss : 0.0158, training accuracy : 99.52, valicate loss : 0.3448, valicate accuracy : 91.44
+
+Epoch: 90
+iteration :  50, loss : 0.0170, accuracy : 99.48
+iteration : 100, loss : 0.0155, accuracy : 99.52
+iteration : 150, loss : 0.0154, accuracy : 99.51
+iteration : 200, loss : 0.0169, accuracy : 99.47
+iteration : 250, loss : 0.0173, accuracy : 99.46
+iteration : 300, loss : 0.0179, accuracy : 99.42
+Epoch :  90, training loss : 0.0180, training accuracy : 99.43, valicate loss : 0.3864, valicate accuracy : 90.92
+
+Epoch: 91
+iteration :  50, loss : 0.0212, accuracy : 99.36
+iteration : 100, loss : 0.0188, accuracy : 99.38
+iteration : 150, loss : 0.0182, accuracy : 99.39
+iteration : 200, loss : 0.0170, accuracy : 99.45
+iteration : 250, loss : 0.0171, accuracy : 99.46
+iteration : 300, loss : 0.0171, accuracy : 99.46
+Epoch :  91, training loss : 0.0171, training accuracy : 99.46, valicate loss : 0.3700, valicate accuracy : 91.19
+
+Epoch: 92
+iteration :  50, loss : 0.0119, accuracy : 99.64
+iteration : 100, loss : 0.0118, accuracy : 99.67
+iteration : 150, loss : 0.0133, accuracy : 99.62
+iteration : 200, loss : 0.0127, accuracy : 99.66
+iteration : 250, loss : 0.0124, accuracy : 99.67
+iteration : 300, loss : 0.0124, accuracy : 99.67
+Epoch :  92, training loss : 0.0125, training accuracy : 99.67, valicate loss : 0.3646, valicate accuracy : 91.29
+
+Epoch: 93
+iteration :  50, loss : 0.0119, accuracy : 99.69
+iteration : 100, loss : 0.0123, accuracy : 99.64
+iteration : 150, loss : 0.0125, accuracy : 99.66
+iteration : 200, loss : 0.0126, accuracy : 99.67
+iteration : 250, loss : 0.0128, accuracy : 99.65
+iteration : 300, loss : 0.0132, accuracy : 99.64
+Epoch :  93, training loss : 0.0131, training accuracy : 99.64, valicate loss : 0.3409, valicate accuracy : 91.71
+
+Epoch: 94
+iteration :  50, loss : 0.0126, accuracy : 99.61
+iteration : 100, loss : 0.0131, accuracy : 99.62
+iteration : 150, loss : 0.0122, accuracy : 99.65
+iteration : 200, loss : 0.0121, accuracy : 99.67
+iteration : 250, loss : 0.0124, accuracy : 99.66
+iteration : 300, loss : 0.0123, accuracy : 99.66
+Epoch :  94, training loss : 0.0123, training accuracy : 99.66, valicate loss : 0.3660, valicate accuracy : 91.18
+
+Epoch: 95
+iteration :  50, loss : 0.0118, accuracy : 99.70
+iteration : 100, loss : 0.0109, accuracy : 99.70
+iteration : 150, loss : 0.0119, accuracy : 99.64
+iteration : 200, loss : 0.0121, accuracy : 99.63
+iteration : 250, loss : 0.0130, accuracy : 99.61
+iteration : 300, loss : 0.0145, accuracy : 99.55
+Epoch :  95, training loss : 0.0148, training accuracy : 99.55, valicate loss : 0.3710, valicate accuracy : 91.04
+
+Epoch: 96
+iteration :  50, loss : 0.0196, accuracy : 99.27
+iteration : 100, loss : 0.0183, accuracy : 99.39
+iteration : 150, loss : 0.0168, accuracy : 99.48
+iteration : 200, loss : 0.0158, accuracy : 99.52
+iteration : 250, loss : 0.0149, accuracy : 99.56
+iteration : 300, loss : 0.0145, accuracy : 99.57
+Epoch :  96, training loss : 0.0144, training accuracy : 99.57, valicate loss : 0.3319, valicate accuracy : 91.97
+
+Epoch: 97
+iteration :  50, loss : 0.0104, accuracy : 99.73
+iteration : 100, loss : 0.0091, accuracy : 99.80
+iteration : 150, loss : 0.0105, accuracy : 99.72
+iteration : 200, loss : 0.0100, accuracy : 99.74
+iteration : 250, loss : 0.0100, accuracy : 99.74
+iteration : 300, loss : 0.0106, accuracy : 99.72
+Epoch :  97, training loss : 0.0108, training accuracy : 99.71, valicate loss : 0.3713, valicate accuracy : 91.08
+
+Epoch: 98
+iteration :  50, loss : 0.0125, accuracy : 99.69
+iteration : 100, loss : 0.0114, accuracy : 99.70
+iteration : 150, loss : 0.0120, accuracy : 99.67
+iteration : 200, loss : 0.0126, accuracy : 99.68
+iteration : 250, loss : 0.0133, accuracy : 99.64
+iteration : 300, loss : 0.0138, accuracy : 99.62
+Epoch :  98, training loss : 0.0139, training accuracy : 99.62, valicate loss : 0.3545, valicate accuracy : 91.02
+
+Epoch: 99
+iteration :  50, loss : 0.0156, accuracy : 99.56
+iteration : 100, loss : 0.0165, accuracy : 99.45
+iteration : 150, loss : 0.0174, accuracy : 99.40
+iteration : 200, loss : 0.0165, accuracy : 99.45
+iteration : 250, loss : 0.0164, accuracy : 99.46
+iteration : 300, loss : 0.0164, accuracy : 99.47
+Epoch :  99, training loss : 0.0163, training accuracy : 99.47, valicate loss : 0.3509, valicate accuracy : 91.55
+
+Epoch: 100
+iteration :  50, loss : 0.0110, accuracy : 99.77
+iteration : 100, loss : 0.0102, accuracy : 99.77
+iteration : 150, loss : 0.0094, accuracy : 99.79
+iteration : 200, loss : 0.0089, accuracy : 99.80
+iteration : 250, loss : 0.0089, accuracy : 99.79
+iteration : 300, loss : 0.0094, accuracy : 99.77
+Epoch : 100, training loss : 0.0094, training accuracy : 99.78, valicate loss : 0.3233, valicate accuracy : 91.59
+
+Epoch: 101
+iteration :  50, loss : 0.0089, accuracy : 99.77
+iteration : 100, loss : 0.0093, accuracy : 99.76
+iteration : 150, loss : 0.0085, accuracy : 99.79
+iteration : 200, loss : 0.0087, accuracy : 99.77
+iteration : 250, loss : 0.0089, accuracy : 99.75
+iteration : 300, loss : 0.0087, accuracy : 99.76
+Epoch : 101, training loss : 0.0090, training accuracy : 99.76, valicate loss : 0.3637, valicate accuracy : 91.06
+
+Epoch: 102
+iteration :  50, loss : 0.0125, accuracy : 99.59
+iteration : 100, loss : 0.0113, accuracy : 99.66
+iteration : 150, loss : 0.0099, accuracy : 99.72
+iteration : 200, loss : 0.0094, accuracy : 99.73
+iteration : 250, loss : 0.0092, accuracy : 99.75
+iteration : 300, loss : 0.0090, accuracy : 99.76
+Epoch : 102, training loss : 0.0092, training accuracy : 99.75, valicate loss : 0.3465, valicate accuracy : 91.73
+
+Epoch: 103
+iteration :  50, loss : 0.0059, accuracy : 99.92
+iteration : 100, loss : 0.0051, accuracy : 99.92
+iteration : 150, loss : 0.0050, accuracy : 99.92
+iteration : 200, loss : 0.0051, accuracy : 99.90
+iteration : 250, loss : 0.0050, accuracy : 99.90
+iteration : 300, loss : 0.0051, accuracy : 99.91
+Epoch : 103, training loss : 0.0051, training accuracy : 99.90, valicate loss : 0.3254, valicate accuracy : 91.96
+
+Epoch: 104
+iteration :  50, loss : 0.0052, accuracy : 99.89
+iteration : 100, loss : 0.0055, accuracy : 99.88
+iteration : 150, loss : 0.0053, accuracy : 99.89
+iteration : 200, loss : 0.0049, accuracy : 99.91
+iteration : 250, loss : 0.0045, accuracy : 99.92
+iteration : 300, loss : 0.0044, accuracy : 99.92
+Epoch : 104, training loss : 0.0045, training accuracy : 99.92, valicate loss : 0.3177, valicate accuracy : 92.05
+
+Epoch: 105
+iteration :  50, loss : 0.0041, accuracy : 99.95
+iteration : 100, loss : 0.0035, accuracy : 99.95
+iteration : 150, loss : 0.0037, accuracy : 99.94
+iteration : 200, loss : 0.0036, accuracy : 99.95
+iteration : 250, loss : 0.0036, accuracy : 99.94
+iteration : 300, loss : 0.0038, accuracy : 99.93
+Epoch : 105, training loss : 0.0038, training accuracy : 99.93, valicate loss : 0.3147, valicate accuracy : 92.51
+
+Epoch: 106
+iteration :  50, loss : 0.0043, accuracy : 99.89
+iteration : 100, loss : 0.0048, accuracy : 99.89
+iteration : 150, loss : 0.0047, accuracy : 99.90
+iteration : 200, loss : 0.0046, accuracy : 99.90
+iteration : 250, loss : 0.0044, accuracy : 99.91
+iteration : 300, loss : 0.0043, accuracy : 99.91
+Epoch : 106, training loss : 0.0043, training accuracy : 99.91, valicate loss : 0.3298, valicate accuracy : 92.12
+
+Epoch: 107
+iteration :  50, loss : 0.0037, accuracy : 99.92
+iteration : 100, loss : 0.0037, accuracy : 99.93
+iteration : 150, loss : 0.0034, accuracy : 99.95
+iteration : 200, loss : 0.0033, accuracy : 99.96
+iteration : 250, loss : 0.0032, accuracy : 99.96
+iteration : 300, loss : 0.0032, accuracy : 99.96
+Epoch : 107, training loss : 0.0033, training accuracy : 99.95, valicate loss : 0.2927, valicate accuracy : 92.60
+
+Epoch: 108
+iteration :  50, loss : 0.0032, accuracy : 99.94
+iteration : 100, loss : 0.0030, accuracy : 99.95
+iteration : 150, loss : 0.0028, accuracy : 99.96
+iteration : 200, loss : 0.0029, accuracy : 99.96
+iteration : 250, loss : 0.0031, accuracy : 99.95
+iteration : 300, loss : 0.0033, accuracy : 99.95
+Epoch : 108, training loss : 0.0033, training accuracy : 99.95, valicate loss : 0.3266, valicate accuracy : 92.09
+
+Epoch: 109
+iteration :  50, loss : 0.0042, accuracy : 99.92
+iteration : 100, loss : 0.0037, accuracy : 99.95
+iteration : 150, loss : 0.0039, accuracy : 99.93
+iteration : 200, loss : 0.0040, accuracy : 99.93
+iteration : 250, loss : 0.0042, accuracy : 99.92
+iteration : 300, loss : 0.0047, accuracy : 99.91
+Epoch : 109, training loss : 0.0046, training accuracy : 99.91, valicate loss : 0.3307, valicate accuracy : 92.03
+
+Epoch: 110
+iteration :  50, loss : 0.0027, accuracy : 99.98
+iteration : 100, loss : 0.0032, accuracy : 99.97
+iteration : 150, loss : 0.0034, accuracy : 99.95
+iteration : 200, loss : 0.0032, accuracy : 99.96
+iteration : 250, loss : 0.0032, accuracy : 99.94
+iteration : 300, loss : 0.0033, accuracy : 99.94
+Epoch : 110, training loss : 0.0033, training accuracy : 99.94, valicate loss : 0.3012, valicate accuracy : 92.78
+
+Epoch: 111
+iteration :  50, loss : 0.0030, accuracy : 99.92
+iteration : 100, loss : 0.0026, accuracy : 99.95
+iteration : 150, loss : 0.0028, accuracy : 99.95
+iteration : 200, loss : 0.0028, accuracy : 99.95
+iteration : 250, loss : 0.0026, accuracy : 99.96
+iteration : 300, loss : 0.0025, accuracy : 99.96
+Epoch : 111, training loss : 0.0025, training accuracy : 99.96, valicate loss : 0.2965, valicate accuracy : 92.65
+
+Epoch: 112
+iteration :  50, loss : 0.0032, accuracy : 99.95
+iteration : 100, loss : 0.0031, accuracy : 99.95
+iteration : 150, loss : 0.0031, accuracy : 99.95
+iteration : 200, loss : 0.0031, accuracy : 99.95
+iteration : 250, loss : 0.0028, accuracy : 99.96
+iteration : 300, loss : 0.0028, accuracy : 99.96
+Epoch : 112, training loss : 0.0027, training accuracy : 99.96, valicate loss : 0.2989, valicate accuracy : 92.66
+
+Epoch: 113
+iteration :  50, loss : 0.0018, accuracy : 100.00
+iteration : 100, loss : 0.0020, accuracy : 99.99
+iteration : 150, loss : 0.0019, accuracy : 99.99
+iteration : 200, loss : 0.0018, accuracy : 100.00
+iteration : 250, loss : 0.0019, accuracy : 99.99
+iteration : 300, loss : 0.0019, accuracy : 99.99
+Epoch : 113, training loss : 0.0020, training accuracy : 99.99, valicate loss : 0.3133, valicate accuracy : 92.63
+
+Epoch: 114
+iteration :  50, loss : 0.0023, accuracy : 99.98
+iteration : 100, loss : 0.0020, accuracy : 99.98
+iteration : 150, loss : 0.0019, accuracy : 99.98
+iteration : 200, loss : 0.0020, accuracy : 99.98
+iteration : 250, loss : 0.0020, accuracy : 99.98
+iteration : 300, loss : 0.0020, accuracy : 99.97
+Epoch : 114, training loss : 0.0020, training accuracy : 99.97, valicate loss : 0.3041, valicate accuracy : 92.61
+
+Epoch: 115
+iteration :  50, loss : 0.0019, accuracy : 99.98
+iteration : 100, loss : 0.0019, accuracy : 99.98
+iteration : 150, loss : 0.0019, accuracy : 99.98
+iteration : 200, loss : 0.0018, accuracy : 99.98
+iteration : 250, loss : 0.0018, accuracy : 99.98
+iteration : 300, loss : 0.0018, accuracy : 99.98
+Epoch : 115, training loss : 0.0018, training accuracy : 99.98, valicate loss : 0.3151, valicate accuracy : 92.63
+
+Epoch: 116
+iteration :  50, loss : 0.0025, accuracy : 99.97
+iteration : 100, loss : 0.0020, accuracy : 99.98
+iteration : 150, loss : 0.0018, accuracy : 99.99
+iteration : 200, loss : 0.0017, accuracy : 99.98
+iteration : 250, loss : 0.0016, accuracy : 99.99
+iteration : 300, loss : 0.0016, accuracy : 99.99
+Epoch : 116, training loss : 0.0016, training accuracy : 99.99, valicate loss : 0.2972, valicate accuracy : 92.96
+
+Epoch: 117
+iteration :  50, loss : 0.0016, accuracy : 99.98
+iteration : 100, loss : 0.0015, accuracy : 99.99
+iteration : 150, loss : 0.0016, accuracy : 99.99
+iteration : 200, loss : 0.0016, accuracy : 99.99
+iteration : 250, loss : 0.0016, accuracy : 99.99
+iteration : 300, loss : 0.0016, accuracy : 99.99
+Epoch : 117, training loss : 0.0016, training accuracy : 99.99, valicate loss : 0.3065, valicate accuracy : 92.67
+
+Epoch: 118
+iteration :  50, loss : 0.0016, accuracy : 99.98
+iteration : 100, loss : 0.0016, accuracy : 99.98
+iteration : 150, loss : 0.0017, accuracy : 99.98
+iteration : 200, loss : 0.0017, accuracy : 99.99
+iteration : 250, loss : 0.0017, accuracy : 99.99
+iteration : 300, loss : 0.0016, accuracy : 99.99
+Epoch : 118, training loss : 0.0016, training accuracy : 99.99, valicate loss : 0.3041, valicate accuracy : 93.12
+
+Epoch: 119
+iteration :  50, loss : 0.0012, accuracy : 100.00
+iteration : 100, loss : 0.0013, accuracy : 100.00
+iteration : 150, loss : 0.0013, accuracy : 100.00
+iteration : 200, loss : 0.0013, accuracy : 100.00
+iteration : 250, loss : 0.0012, accuracy : 100.00
+iteration : 300, loss : 0.0013, accuracy : 99.99
+Epoch : 119, training loss : 0.0013, training accuracy : 99.99, valicate loss : 0.2924, valicate accuracy : 92.98
+
+Epoch: 120
+iteration :  50, loss : 0.0013, accuracy : 100.00
+iteration : 100, loss : 0.0012, accuracy : 100.00
+iteration : 150, loss : 0.0013, accuracy : 99.99
+iteration : 200, loss : 0.0014, accuracy : 99.98
+iteration : 250, loss : 0.0015, accuracy : 99.98
+iteration : 300, loss : 0.0015, accuracy : 99.98
+Epoch : 120, training loss : 0.0015, training accuracy : 99.98, valicate loss : 0.3066, valicate accuracy : 92.84
+
+Epoch: 121
+iteration :  50, loss : 0.0015, accuracy : 99.97
+iteration : 100, loss : 0.0014, accuracy : 99.98
+iteration : 150, loss : 0.0014, accuracy : 99.98
+iteration : 200, loss : 0.0013, accuracy : 99.99
+iteration : 250, loss : 0.0013, accuracy : 99.99
+iteration : 300, loss : 0.0013, accuracy : 99.99
+Epoch : 121, training loss : 0.0013, training accuracy : 99.99, valicate loss : 0.3045, valicate accuracy : 92.96
+
+Epoch: 122
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0011, accuracy : 100.00
+iteration : 150, loss : 0.0011, accuracy : 100.00
+iteration : 200, loss : 0.0011, accuracy : 100.00
+iteration : 250, loss : 0.0011, accuracy : 100.00
+iteration : 300, loss : 0.0011, accuracy : 100.00
+Epoch : 122, training loss : 0.0011, training accuracy : 100.00, valicate loss : 0.2907, valicate accuracy : 93.11
+
+Epoch: 123
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 99.99
+iteration : 200, loss : 0.0011, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 123, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2892, valicate accuracy : 93.02
+
+Epoch: 124
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0012, accuracy : 100.00
+iteration : 300, loss : 0.0012, accuracy : 100.00
+Epoch : 124, training loss : 0.0012, training accuracy : 100.00, valicate loss : 0.2875, valicate accuracy : 93.11
+
+Epoch: 125
+iteration :  50, loss : 0.0012, accuracy : 100.00
+iteration : 100, loss : 0.0011, accuracy : 100.00
+iteration : 150, loss : 0.0012, accuracy : 99.99
+iteration : 200, loss : 0.0012, accuracy : 100.00
+iteration : 250, loss : 0.0011, accuracy : 100.00
+iteration : 300, loss : 0.0011, accuracy : 100.00
+Epoch : 125, training loss : 0.0011, training accuracy : 100.00, valicate loss : 0.2782, valicate accuracy : 93.21
+
+Epoch: 126
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 99.99
+iteration : 150, loss : 0.0010, accuracy : 99.99
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 126, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2856, valicate accuracy : 93.06
+
+Epoch: 127
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0011, accuracy : 99.99
+iteration : 300, loss : 0.0011, accuracy : 99.99
+Epoch : 127, training loss : 0.0011, training accuracy : 99.99, valicate loss : 0.3013, valicate accuracy : 92.91
+
+Epoch: 128
+iteration :  50, loss : 0.0011, accuracy : 100.00
+iteration : 100, loss : 0.0012, accuracy : 100.00
+iteration : 150, loss : 0.0012, accuracy : 100.00
+iteration : 200, loss : 0.0012, accuracy : 100.00
+iteration : 250, loss : 0.0012, accuracy : 100.00
+iteration : 300, loss : 0.0011, accuracy : 100.00
+Epoch : 128, training loss : 0.0011, training accuracy : 100.00, valicate loss : 0.2889, valicate accuracy : 93.00
+
+Epoch: 129
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 129, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2812, valicate accuracy : 93.02
+
+Epoch: 130
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0011, accuracy : 99.99
+iteration : 250, loss : 0.0012, accuracy : 99.99
+iteration : 300, loss : 0.0011, accuracy : 99.99
+Epoch : 130, training loss : 0.0011, training accuracy : 100.00, valicate loss : 0.2787, valicate accuracy : 93.20
+
+Epoch: 131
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0012, accuracy : 99.99
+iteration : 250, loss : 0.0012, accuracy : 99.99
+iteration : 300, loss : 0.0012, accuracy : 99.99
+Epoch : 131, training loss : 0.0012, training accuracy : 99.99, valicate loss : 0.2828, valicate accuracy : 93.40
+
+Epoch: 132
+iteration :  50, loss : 0.0011, accuracy : 100.00
+iteration : 100, loss : 0.0011, accuracy : 100.00
+iteration : 150, loss : 0.0011, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 132, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2854, valicate accuracy : 93.17
+
+Epoch: 133
+iteration :  50, loss : 0.0013, accuracy : 99.98
+iteration : 100, loss : 0.0013, accuracy : 99.99
+iteration : 150, loss : 0.0012, accuracy : 99.99
+iteration : 200, loss : 0.0012, accuracy : 100.00
+iteration : 250, loss : 0.0011, accuracy : 100.00
+iteration : 300, loss : 0.0011, accuracy : 100.00
+Epoch : 133, training loss : 0.0011, training accuracy : 100.00, valicate loss : 0.2786, valicate accuracy : 93.22
+
+Epoch: 134
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 134, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2857, valicate accuracy : 92.97
+
+Epoch: 135
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0011, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 135, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2906, valicate accuracy : 93.06
+
+Epoch: 136
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 136, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2838, valicate accuracy : 93.07
+
+Epoch: 137
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 99.99
+iteration : 150, loss : 0.0009, accuracy : 99.99
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 137, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2925, valicate accuracy : 93.02
+
+Epoch: 138
+iteration :  50, loss : 0.0011, accuracy : 99.98
+iteration : 100, loss : 0.0011, accuracy : 99.99
+iteration : 150, loss : 0.0010, accuracy : 99.99
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 138, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2881, valicate accuracy : 92.93
+
+Epoch: 139
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 139, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2891, valicate accuracy : 93.14
+
+Epoch: 140
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 140, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2870, valicate accuracy : 93.05
+
+Epoch: 141
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 99.99
+iteration : 150, loss : 0.0010, accuracy : 99.99
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 141, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2933, valicate accuracy : 93.19
+
+Epoch: 142
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 142, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2854, valicate accuracy : 93.16
+
+Epoch: 143
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 143, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2851, valicate accuracy : 93.13
+
+Epoch: 144
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 144, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2887, valicate accuracy : 93.02
+
+Epoch: 145
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 145, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2969, valicate accuracy : 92.89
+
+Epoch: 146
+iteration :  50, loss : 0.0011, accuracy : 99.98
+iteration : 100, loss : 0.0009, accuracy : 99.99
+iteration : 150, loss : 0.0009, accuracy : 99.99
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 146, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2825, valicate accuracy : 93.14
+
+Epoch: 147
+iteration :  50, loss : 0.0011, accuracy : 99.98
+iteration : 100, loss : 0.0010, accuracy : 99.99
+iteration : 150, loss : 0.0010, accuracy : 99.99
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 99.99
+iteration : 300, loss : 0.0010, accuracy : 99.99
+Epoch : 147, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2807, valicate accuracy : 92.98
+
+Epoch: 148
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 148, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2814, valicate accuracy : 93.20
+
+Epoch: 149
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 99.99
+iteration : 150, loss : 0.0010, accuracy : 99.99
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 149, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2829, valicate accuracy : 92.99
+
+Epoch: 150
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 150, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2923, valicate accuracy : 93.11
+
+Epoch: 151
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 151, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2810, valicate accuracy : 93.36
+
+Epoch: 152
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 152, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2824, valicate accuracy : 93.11
+
+Epoch: 153
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 153, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2825, valicate accuracy : 93.13
+
+Epoch: 154
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0008, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 99.99
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 154, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2856, valicate accuracy : 93.12
+
+Epoch: 155
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 155, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2782, valicate accuracy : 93.25
+
+Epoch: 156
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 156, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2776, valicate accuracy : 93.19
+
+Epoch: 157
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 157, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2809, valicate accuracy : 93.27
+
+Epoch: 158
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 158, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2762, valicate accuracy : 93.38
+
+Epoch: 159
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 99.99
+iteration : 150, loss : 0.0010, accuracy : 99.99
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 159, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2870, valicate accuracy : 93.23
+
+Epoch: 160
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 160, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2853, valicate accuracy : 93.24
+
+Epoch: 161
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0008, accuracy : 100.00
+iteration : 150, loss : 0.0008, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 161, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2820, valicate accuracy : 93.09
+
+Epoch: 162
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 162, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2821, valicate accuracy : 93.27
+
+Epoch: 163
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 163, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2771, valicate accuracy : 93.26
+
+Epoch: 164
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 164, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2805, valicate accuracy : 93.06
+
+Epoch: 165
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 165, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2789, valicate accuracy : 93.02
+
+Epoch: 166
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 166, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2907, valicate accuracy : 93.18
+
+Epoch: 167
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 167, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2750, valicate accuracy : 93.28
+
+Epoch: 168
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 168, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2774, valicate accuracy : 93.32
+
+Epoch: 169
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 169, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2900, valicate accuracy : 93.14
+
+Epoch: 170
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 170, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2876, valicate accuracy : 93.30
+
+Epoch: 171
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 171, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2782, valicate accuracy : 93.10
+
+Epoch: 172
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 172, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2863, valicate accuracy : 93.05
+
+Epoch: 173
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 173, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2856, valicate accuracy : 93.12
+
+Epoch: 174
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 174, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2756, valicate accuracy : 93.36
+
+Epoch: 175
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 175, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2846, valicate accuracy : 92.97
+
+Epoch: 176
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 176, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2807, valicate accuracy : 93.03
+
+Epoch: 177
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 177, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2799, valicate accuracy : 93.03
+
+Epoch: 178
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 178, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2813, valicate accuracy : 93.12
+
+Epoch: 179
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 179, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2784, valicate accuracy : 93.12
+
+Epoch: 180
+iteration :  50, loss : 0.0010, accuracy : 99.98
+iteration : 100, loss : 0.0009, accuracy : 99.99
+iteration : 150, loss : 0.0010, accuracy : 99.99
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 180, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2808, valicate accuracy : 93.18
+
+Epoch: 181
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 181, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2783, valicate accuracy : 93.39
+
+Epoch: 182
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 182, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2816, valicate accuracy : 93.23
+
+Epoch: 183
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 183, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2815, valicate accuracy : 93.18
+
+Epoch: 184
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 184, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2713, valicate accuracy : 93.20
+
+Epoch: 185
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 185, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2833, valicate accuracy : 93.34
+
+Epoch: 186
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 186, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2844, valicate accuracy : 93.14
+
+Epoch: 187
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 187, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2699, valicate accuracy : 93.24
+
+Epoch: 188
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 188, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2698, valicate accuracy : 93.15
+
+Epoch: 189
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 189, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2730, valicate accuracy : 93.28
+
+Epoch: 190
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 190, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2671, valicate accuracy : 93.11
+
+Epoch: 191
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0008, accuracy : 100.00
+iteration : 300, loss : 0.0008, accuracy : 100.00
+Epoch : 191, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2814, valicate accuracy : 92.93
+
+Epoch: 192
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 192, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2816, valicate accuracy : 93.13
+
+Epoch: 193
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 193, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2857, valicate accuracy : 92.98
+
+Epoch: 194
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 99.99
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 194, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2871, valicate accuracy : 93.10
+
+Epoch: 195
+iteration :  50, loss : 0.0011, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 195, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2780, valicate accuracy : 93.08
+
+Epoch: 196
+iteration :  50, loss : 0.0012, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 196, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2878, valicate accuracy : 93.01
+
+Epoch: 197
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 197, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2800, valicate accuracy : 93.24
+
+Epoch: 198
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 99.99
+iteration : 150, loss : 0.0009, accuracy : 99.99
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 198, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2848, valicate accuracy : 93.17
+
+Epoch: 199
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0012, accuracy : 99.99
+iteration : 150, loss : 0.0011, accuracy : 99.99
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 199, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2883, valicate accuracy : 93.16
+
+Epoch: 200
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 200, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2789, valicate accuracy : 92.99
+
+Epoch: 201
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 201, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2855, valicate accuracy : 93.33
+
+Epoch: 202
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 202, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2846, valicate accuracy : 92.98
+
+Epoch: 203
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 203, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2770, valicate accuracy : 93.43
+
+Epoch: 204
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 204, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2747, valicate accuracy : 93.14
+
+Epoch: 205
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 205, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2864, valicate accuracy : 93.09
+
+Epoch: 206
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 206, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2728, valicate accuracy : 93.45
+
+Epoch: 207
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0008, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 207, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2866, valicate accuracy : 93.15
+
+Epoch: 208
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0008, accuracy : 100.00
+iteration : 200, loss : 0.0008, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 208, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2878, valicate accuracy : 93.08
+
+Epoch: 209
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 209, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2896, valicate accuracy : 92.90
+
+Epoch: 210
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 210, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2823, valicate accuracy : 93.03
+
+Epoch: 211
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 211, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2766, valicate accuracy : 93.22
+
+Epoch: 212
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 212, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2773, valicate accuracy : 93.34
+
+Epoch: 213
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 213, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2900, valicate accuracy : 93.06
+
+Epoch: 214
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 214, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2842, valicate accuracy : 92.96
+
+Epoch: 215
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 215, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2872, valicate accuracy : 93.12
+
+Epoch: 216
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 216, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2805, valicate accuracy : 93.19
+
+Epoch: 217
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 217, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2898, valicate accuracy : 92.98
+
+Epoch: 218
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 218, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2834, valicate accuracy : 93.09
+
+Epoch: 219
+iteration :  50, loss : 0.0012, accuracy : 99.98
+iteration : 100, loss : 0.0011, accuracy : 99.99
+iteration : 150, loss : 0.0010, accuracy : 99.99
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 219, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2726, valicate accuracy : 93.40
+
+Epoch: 220
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 220, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2789, valicate accuracy : 93.03
+
+Epoch: 221
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 221, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2807, valicate accuracy : 93.18
+
+Epoch: 222
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 222, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2892, valicate accuracy : 92.84
+
+Epoch: 223
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 223, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2905, valicate accuracy : 93.12
+
+Epoch: 224
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 224, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2748, valicate accuracy : 93.22
+
+Epoch: 225
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 225, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2872, valicate accuracy : 93.12
+
+Epoch: 226
+iteration :  50, loss : 0.0011, accuracy : 99.98
+iteration : 100, loss : 0.0010, accuracy : 99.99
+iteration : 150, loss : 0.0010, accuracy : 99.99
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 226, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2794, valicate accuracy : 93.12
+
+Epoch: 227
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 227, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2829, valicate accuracy : 93.16
+
+Epoch: 228
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 228, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2890, valicate accuracy : 93.11
+
+Epoch: 229
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 229, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2832, valicate accuracy : 93.12
+
+Epoch: 230
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 230, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2780, valicate accuracy : 93.17
+
+Epoch: 231
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 231, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2801, valicate accuracy : 93.41
+
+Epoch: 232
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 232, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2888, valicate accuracy : 93.03
+
+Epoch: 233
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 233, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2722, valicate accuracy : 93.33
+
+Epoch: 234
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 234, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2715, valicate accuracy : 93.07
+
+Epoch: 235
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 235, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2892, valicate accuracy : 93.05
+
+Epoch: 236
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 236, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2800, valicate accuracy : 93.08
+
+Epoch: 237
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 237, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2775, valicate accuracy : 92.97
+
+Epoch: 238
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 238, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2703, valicate accuracy : 93.33
+
+Epoch: 239
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 239, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2798, valicate accuracy : 93.20
+
+Epoch: 240
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 240, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2753, valicate accuracy : 93.07
+
+Epoch: 241
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 241, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2866, valicate accuracy : 93.16
+
+Epoch: 242
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 242, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2829, valicate accuracy : 93.15
+
+Epoch: 243
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 243, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2869, valicate accuracy : 92.89
+
+Epoch: 244
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 244, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2805, valicate accuracy : 93.10
+
+Epoch: 245
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 245, training loss : 0.0009, training accuracy : 100.00, valicate loss : 0.2809, valicate accuracy : 93.22
+
+Epoch: 246
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 246, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2903, valicate accuracy : 93.12
+
+Epoch: 247
+iteration :  50, loss : 0.0008, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0009, accuracy : 100.00
+iteration : 300, loss : 0.0009, accuracy : 100.00
+Epoch : 247, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2791, valicate accuracy : 93.22
+
+Epoch: 248
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 248, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2793, valicate accuracy : 93.33
+
+Epoch: 249
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 249, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2789, valicate accuracy : 93.12
+
+Epoch: 250
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 250, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2833, valicate accuracy : 93.03
+
+Epoch: 251
+iteration :  50, loss : 0.0009, accuracy : 100.00
+iteration : 100, loss : 0.0009, accuracy : 100.00
+iteration : 150, loss : 0.0009, accuracy : 100.00
+iteration : 200, loss : 0.0009, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 251, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2943, valicate accuracy : 93.01
+
+Epoch: 252
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 252, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2851, valicate accuracy : 93.12
+
+Epoch: 253
+iteration :  50, loss : 0.0012, accuracy : 99.98
+iteration : 100, loss : 0.0011, accuracy : 99.99
+iteration : 150, loss : 0.0011, accuracy : 99.99
+iteration : 200, loss : 0.0011, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0011, accuracy : 100.00
+Epoch : 253, training loss : 0.0011, training accuracy : 100.00, valicate loss : 0.2867, valicate accuracy : 92.96
+
+Epoch: 254
+iteration :  50, loss : 0.0011, accuracy : 100.00
+iteration : 100, loss : 0.0011, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 254, training loss : 0.0011, training accuracy : 100.00, valicate loss : 0.2879, valicate accuracy : 93.06
+
+Epoch: 255
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 255, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2804, valicate accuracy : 93.18
+
+Epoch: 256
+iteration :  50, loss : 0.0011, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 256, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2881, valicate accuracy : 93.09
+
+Epoch: 257
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 257, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2871, valicate accuracy : 92.92
+
+Epoch: 258
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 258, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2916, valicate accuracy : 93.00
+
+Epoch: 259
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0010, accuracy : 100.00
+iteration : 300, loss : 0.0010, accuracy : 100.00
+Epoch : 259, training loss : 0.0010, training accuracy : 100.00, valicate loss : 0.2848, valicate accuracy : 93.01
+
+Epoch: 260
+iteration :  50, loss : 0.0011, accuracy : 100.00
+iteration : 100, loss : 0.0013, accuracy : 99.99
+iteration : 150, loss : 0.0012, accuracy : 99.99
+iteration : 200, loss : 0.0012, accuracy : 100.00
+iteration : 250, loss : 0.0011, accuracy : 100.00
+iteration : 300, loss : 0.0011, accuracy : 100.00
+Epoch : 260, training loss : 0.0011, training accuracy : 100.00, valicate loss : 0.2777, valicate accuracy : 93.20
+
+Epoch: 261
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0010, accuracy : 100.00
+iteration : 250, loss : 0.0011, accuracy : 100.00
+iteration : 300, loss : 0.0011, accuracy : 100.00
+Epoch : 261, training loss : 0.0011, training accuracy : 100.00, valicate loss : 0.2803, valicate accuracy : 93.02
+
+Epoch: 262
+iteration :  50, loss : 0.0012, accuracy : 100.00
+iteration : 100, loss : 0.0011, accuracy : 100.00
+iteration : 150, loss : 0.0011, accuracy : 100.00
+iteration : 200, loss : 0.0011, accuracy : 100.00
+iteration : 250, loss : 0.0011, accuracy : 100.00
+iteration : 300, loss : 0.0011, accuracy : 100.00
+Epoch : 262, training loss : 0.0011, training accuracy : 100.00, valicate loss : 0.2931, valicate accuracy : 93.07
+
+Epoch: 263
+iteration :  50, loss : 0.0011, accuracy : 100.00
+iteration : 100, loss : 0.0011, accuracy : 100.00
+iteration : 150, loss : 0.0010, accuracy : 100.00
+iteration : 200, loss : 0.0011, accuracy : 100.00
+iteration : 250, loss : 0.0011, accuracy : 100.00
+iteration : 300, loss : 0.0011, accuracy : 100.00
+Epoch : 263, training loss : 0.0012, training accuracy : 100.00, valicate loss : 0.2881, valicate accuracy : 93.13
+
+Epoch: 264
+iteration :  50, loss : 0.0016, accuracy : 100.00
+iteration : 100, loss : 0.0013, accuracy : 100.00
+iteration : 150, loss : 0.0013, accuracy : 100.00
+iteration : 200, loss : 0.0013, accuracy : 100.00
+iteration : 250, loss : 0.0013, accuracy : 100.00
+iteration : 300, loss : 0.0012, accuracy : 100.00
+Epoch : 264, training loss : 0.0012, training accuracy : 100.00, valicate loss : 0.2949, valicate accuracy : 92.99
+
+Epoch: 265
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0011, accuracy : 99.99
+iteration : 150, loss : 0.0013, accuracy : 99.99
+iteration : 200, loss : 0.0013, accuracy : 99.99
+iteration : 250, loss : 0.0013, accuracy : 99.99
+iteration : 300, loss : 0.0013, accuracy : 99.99
+Epoch : 265, training loss : 0.0013, training accuracy : 100.00, valicate loss : 0.2708, valicate accuracy : 93.20
+
+Epoch: 266
+iteration :  50, loss : 0.0010, accuracy : 100.00
+iteration : 100, loss : 0.0010, accuracy : 100.00
+iteration : 150, loss : 0.0011, accuracy : 100.00
+iteration : 200, loss : 0.0011, accuracy : 100.00
+iteration : 250, loss : 0.0011, accuracy : 100.00
+iteration : 300, loss : 0.0011, accuracy : 100.00
+Epoch : 266, training loss : 0.0011, training accuracy : 100.00, valicate loss : 0.2869, valicate accuracy : 93.22
+
+Epoch: 267
+iteration :  50, loss : 0.0011, accuracy : 100.00
+iteration : 100, loss : 0.0011, accuracy : 100.00
+iteration : 150, loss : 0.0011, accuracy : 100.00
+iteration : 200, loss : 0.0011, accuracy : 100.00
+iteration : 250, loss : 0.0011, accuracy : 100.00
+iteration : 300, loss : 0.0011, accuracy : 100.00
+Epoch : 267, training loss : 0.0011, training accuracy : 100.00, valicate loss : 0.2875, valicate accuracy : 93.12
+
+Epoch: 268
+iteration :  50, loss : 0.0011, accuracy : 100.00
+iteration : 100, loss : 0.0011, accuracy : 100.00
+iteration : 150, loss : 0.0011, accuracy : 100.00
+iteration : 200, loss : 0.0011, accuracy : 100.00
+iteration : 250, loss : 0.0011, accuracy : 100.00
+iteration : 300, loss : 0.0011, accuracy : 100.00
+Epoch : 268, training loss : 0.0011, training accuracy : 100.00, valicate loss : 0.2857, valicate accuracy : 93.19
+
+Epoch: 269
+iteration :  50, loss : 0.0015, accuracy : 100.00
+iteration : 100, loss : 0.0018, accuracy : 99.98
+iteration : 150, loss : 0.0017, accuracy : 99.99
+iteration : 200, loss : 0.0016, accuracy : 99.99
+iteration : 250, loss : 0.0016, accuracy : 99.99
+iteration : 300, loss : 0.0015, accuracy : 99.99
+Epoch : 269, training loss : 0.0015, training accuracy : 100.00, valicate loss : 0.2813, valicate accuracy : 93.16
+
+Epoch: 270
+iteration :  50, loss : 0.0013, accuracy : 100.00
+iteration : 100, loss : 0.0013, accuracy : 100.00
+iteration : 150, loss : 0.0013, accuracy : 100.00
+iteration : 200, loss : 0.0013, accuracy : 100.00
+iteration : 250, loss : 0.0012, accuracy : 100.00
+iteration : 300, loss : 0.0012, accuracy : 100.00
+Epoch : 270, training loss : 0.0012, training accuracy : 100.00, valicate loss : 0.2846, valicate accuracy : 93.13
+
+Epoch: 271
+iteration :  50, loss : 0.0013, accuracy : 100.00
+iteration : 100, loss : 0.0014, accuracy : 100.00
+iteration : 150, loss : 0.0013, accuracy : 100.00
+iteration : 200, loss : 0.0013, accuracy : 100.00
+iteration : 250, loss : 0.0012, accuracy : 100.00
+iteration : 300, loss : 0.0012, accuracy : 100.00
+Epoch : 271, training loss : 0.0012, training accuracy : 100.00, valicate loss : 0.2851, valicate accuracy : 92.81
+
+Epoch: 272
+iteration :  50, loss : 0.0011, accuracy : 100.00
+iteration : 100, loss : 0.0012, accuracy : 100.00
+iteration : 150, loss : 0.0012, accuracy : 100.00
+iteration : 200, loss : 0.0012, accuracy : 100.00
+iteration : 250, loss : 0.0012, accuracy : 100.00
+iteration : 300, loss : 0.0012, accuracy : 100.00
+Epoch : 272, training loss : 0.0012, training accuracy : 100.00, valicate loss : 0.2863, valicate accuracy : 92.94
+
+Epoch: 273
+iteration :  50, loss : 0.0011, accuracy : 100.00
+iteration : 100, loss : 0.0011, accuracy : 100.00
+iteration : 150, loss : 0.0012, accuracy : 100.00
+iteration : 200, loss : 0.0012, accuracy : 100.00
+iteration : 250, loss : 0.0012, accuracy : 100.00
+iteration : 300, loss : 0.0012, accuracy : 100.00
+Epoch : 273, training loss : 0.0012, training accuracy : 100.00, valicate loss : 0.2864, valicate accuracy : 93.12
+
+Epoch: 274
+iteration :  50, loss : 0.0011, accuracy : 100.00
+iteration : 100, loss : 0.0011, accuracy : 100.00
+iteration : 150, loss : 0.0011, accuracy : 100.00
+iteration : 200, loss : 0.0011, accuracy : 100.00
+iteration : 250, loss : 0.0011, accuracy : 100.00
+iteration : 300, loss : 0.0011, accuracy : 100.00
+Epoch : 274, training loss : 0.0011, training accuracy : 100.00, valicate loss : 0.2976, valicate accuracy : 93.03
+
+Epoch: 275
+iteration :  50, loss : 0.0012, accuracy : 100.00
+iteration : 100, loss : 0.0012, accuracy : 100.00
+iteration : 150, loss : 0.0012, accuracy : 100.00
+iteration : 200, loss : 0.0012, accuracy : 100.00
+iteration : 250, loss : 0.0012, accuracy : 100.00
+iteration : 300, loss : 0.0012, accuracy : 100.00
+Epoch : 275, training loss : 0.0012, training accuracy : 100.00, valicate loss : 0.2900, valicate accuracy : 92.92
+
+Epoch: 276
+iteration :  50, loss : 0.0011, accuracy : 100.00
+iteration : 100, loss : 0.0012, accuracy : 100.00
+iteration : 150, loss : 0.0012, accuracy : 100.00
+iteration : 200, loss : 0.0013, accuracy : 100.00
+iteration : 250, loss : 0.0013, accuracy : 100.00
+iteration : 300, loss : 0.0014, accuracy : 99.99
+Epoch : 276, training loss : 0.0014, training accuracy : 100.00, valicate loss : 0.3072, valicate accuracy : 92.80
+
+Epoch: 277
+iteration :  50, loss : 0.0018, accuracy : 100.00
+iteration : 100, loss : 0.0033, accuracy : 99.94
+iteration : 150, loss : 0.0039, accuracy : 99.93
+iteration : 200, loss : 0.0044, accuracy : 99.93
+iteration : 250, loss : 0.0053, accuracy : 99.90
+iteration : 300, loss : 0.0074, accuracy : 99.84
+Epoch : 277, training loss : 0.0084, training accuracy : 99.81, valicate loss : 0.4533, valicate accuracy : 88.82
+
+Epoch: 278
+iteration :  50, loss : 0.0542, accuracy : 98.39
+iteration : 100, loss : 0.0508, accuracy : 98.56
+iteration : 150, loss : 0.0485, accuracy : 98.62
+iteration : 200, loss : 0.0496, accuracy : 98.53
+iteration : 250, loss : 0.0517, accuracy : 98.44
+iteration : 300, loss : 0.0552, accuracy : 98.30
+Epoch : 278, training loss : 0.0560, training accuracy : 98.27, valicate loss : 0.4071, valicate accuracy : 88.34
+
+Epoch: 279
+iteration :  50, loss : 0.0554, accuracy : 98.45
+iteration : 100, loss : 0.0507, accuracy : 98.55
+iteration : 150, loss : 0.0539, accuracy : 98.38
+iteration : 200, loss : 0.0554, accuracy : 98.25
+iteration : 250, loss : 0.0555, accuracy : 98.27
+iteration : 300, loss : 0.0556, accuracy : 98.27
+Epoch : 279, training loss : 0.0548, training accuracy : 98.30, valicate loss : 0.3413, valicate accuracy : 90.27
+
+Epoch: 280
+iteration :  50, loss : 0.0458, accuracy : 98.53
+iteration : 100, loss : 0.0446, accuracy : 98.60
+iteration : 150, loss : 0.0475, accuracy : 98.52
+iteration : 200, loss : 0.0502, accuracy : 98.42
+iteration : 250, loss : 0.0492, accuracy : 98.47
+iteration : 300, loss : 0.0489, accuracy : 98.48
+Epoch : 280, training loss : 0.0490, training accuracy : 98.47, valicate loss : 0.3544, valicate accuracy : 90.08
+
+Epoch: 281
+iteration :  50, loss : 0.0393, accuracy : 98.81
+iteration : 100, loss : 0.0410, accuracy : 98.74
+iteration : 150, loss : 0.0448, accuracy : 98.59
+iteration : 200, loss : 0.0494, accuracy : 98.43
+iteration : 250, loss : 0.0507, accuracy : 98.38
+iteration : 300, loss : 0.0526, accuracy : 98.30
+Epoch : 281, training loss : 0.0529, training accuracy : 98.29, valicate loss : 0.3751, valicate accuracy : 89.57
+
+Epoch: 282
+iteration :  50, loss : 0.0669, accuracy : 97.67
+iteration : 100, loss : 0.0623, accuracy : 97.84
+iteration : 150, loss : 0.0604, accuracy : 97.99
+iteration : 200, loss : 0.0601, accuracy : 98.03
+iteration : 250, loss : 0.0587, accuracy : 98.09
+iteration : 300, loss : 0.0578, accuracy : 98.15
+Epoch : 282, training loss : 0.0577, training accuracy : 98.16, valicate loss : 0.3744, valicate accuracy : 89.71
+
+Epoch: 283
+iteration :  50, loss : 0.0554, accuracy : 98.08
+iteration : 100, loss : 0.0515, accuracy : 98.29
+iteration : 150, loss : 0.0519, accuracy : 98.29
+iteration : 200, loss : 0.0517, accuracy : 98.26
+iteration : 250, loss : 0.0519, accuracy : 98.25
+iteration : 300, loss : 0.0550, accuracy : 98.15
+Epoch : 283, training loss : 0.0554, training accuracy : 98.14, valicate loss : 0.4108, valicate accuracy : 89.00
+
+Epoch: 284
+iteration :  50, loss : 0.0524, accuracy : 98.38
+iteration : 100, loss : 0.0546, accuracy : 98.28
+iteration : 150, loss : 0.0558, accuracy : 98.22
+iteration : 200, loss : 0.0552, accuracy : 98.22
+iteration : 250, loss : 0.0559, accuracy : 98.22
+iteration : 300, loss : 0.0559, accuracy : 98.22
+Epoch : 284, training loss : 0.0557, training accuracy : 98.22, valicate loss : 0.3749, valicate accuracy : 90.14
+
+Epoch: 285
+iteration :  50, loss : 0.0601, accuracy : 98.20
+iteration : 100, loss : 0.0589, accuracy : 98.17
+iteration : 150, loss : 0.0594, accuracy : 98.14
+iteration : 200, loss : 0.0603, accuracy : 98.08
+iteration : 250, loss : 0.0594, accuracy : 98.10
+iteration : 300, loss : 0.0590, accuracy : 98.11
+Epoch : 285, training loss : 0.0591, training accuracy : 98.10, valicate loss : 0.3879, valicate accuracy : 89.57
+
+Epoch: 286
+iteration :  50, loss : 0.0534, accuracy : 98.30
+iteration : 100, loss : 0.0540, accuracy : 98.24
+iteration : 150, loss : 0.0531, accuracy : 98.28
+iteration : 200, loss : 0.0544, accuracy : 98.21
+iteration : 250, loss : 0.0535, accuracy : 98.25
+iteration : 300, loss : 0.0545, accuracy : 98.22
+Epoch : 286, training loss : 0.0552, training accuracy : 98.19, valicate loss : 0.3809, valicate accuracy : 88.72
+
+Epoch: 287
+iteration :  50, loss : 0.0594, accuracy : 98.06
+iteration : 100, loss : 0.0593, accuracy : 98.07
+iteration : 150, loss : 0.0605, accuracy : 98.01
+iteration : 200, loss : 0.0611, accuracy : 97.95
+iteration : 250, loss : 0.0602, accuracy : 97.99
+iteration : 300, loss : 0.0619, accuracy : 97.92
+Epoch : 287, training loss : 0.0618, training accuracy : 97.94, valicate loss : 0.4049, valicate accuracy : 89.26
+
+Epoch: 288
+iteration :  50, loss : 0.0465, accuracy : 98.53
+iteration : 100, loss : 0.0435, accuracy : 98.68
+iteration : 150, loss : 0.0447, accuracy : 98.64
+iteration : 200, loss : 0.0464, accuracy : 98.55
+iteration : 250, loss : 0.0477, accuracy : 98.49
+iteration : 300, loss : 0.0489, accuracy : 98.42
+Epoch : 288, training loss : 0.0501, training accuracy : 98.38, valicate loss : 0.4021, valicate accuracy : 89.15
+
+Epoch: 289
+iteration :  50, loss : 0.0593, accuracy : 98.28
+iteration : 100, loss : 0.0591, accuracy : 98.28
+iteration : 150, loss : 0.0570, accuracy : 98.31
+iteration : 200, loss : 0.0542, accuracy : 98.36
+iteration : 250, loss : 0.0529, accuracy : 98.38
+iteration : 300, loss : 0.0526, accuracy : 98.37
+Epoch : 289, training loss : 0.0525, training accuracy : 98.38, valicate loss : 0.3832, valicate accuracy : 89.61
+
+Epoch: 290
+iteration :  50, loss : 0.0558, accuracy : 98.25
+iteration : 100, loss : 0.0568, accuracy : 98.17
+iteration : 150, loss : 0.0564, accuracy : 98.19
+iteration : 200, loss : 0.0574, accuracy : 98.15
+iteration : 250, loss : 0.0572, accuracy : 98.13
+iteration : 300, loss : 0.0581, accuracy : 98.09
+Epoch : 290, training loss : 0.0582, training accuracy : 98.08, valicate loss : 0.4195, valicate accuracy : 88.66
+
+Epoch: 291
+iteration :  50, loss : 0.0523, accuracy : 98.25
+iteration : 100, loss : 0.0523, accuracy : 98.27
+iteration : 150, loss : 0.0551, accuracy : 98.21
+iteration : 200, loss : 0.0563, accuracy : 98.19
+iteration : 250, loss : 0.0559, accuracy : 98.21
+iteration : 300, loss : 0.0560, accuracy : 98.18
+Epoch : 291, training loss : 0.0569, training accuracy : 98.15, valicate loss : 0.4171, valicate accuracy : 89.26
+
+Epoch: 292
+iteration :  50, loss : 0.0517, accuracy : 98.41
+iteration : 100, loss : 0.0488, accuracy : 98.37
+iteration : 150, loss : 0.0483, accuracy : 98.47
+iteration : 200, loss : 0.0504, accuracy : 98.39
+iteration : 250, loss : 0.0546, accuracy : 98.24
+iteration : 300, loss : 0.0559, accuracy : 98.17
+Epoch : 292, training loss : 0.0561, training accuracy : 98.16, valicate loss : 0.3801, valicate accuracy : 89.64
+
+Epoch: 293
+iteration :  50, loss : 0.0472, accuracy : 98.42
+iteration : 100, loss : 0.0502, accuracy : 98.29
+iteration : 150, loss : 0.0496, accuracy : 98.38
+iteration : 200, loss : 0.0497, accuracy : 98.39
+iteration : 250, loss : 0.0502, accuracy : 98.38
+iteration : 300, loss : 0.0504, accuracy : 98.37
+Epoch : 293, training loss : 0.0506, training accuracy : 98.37, valicate loss : 0.3875, valicate accuracy : 89.74
+
+Epoch: 294
+iteration :  50, loss : 0.0542, accuracy : 98.22
+iteration : 100, loss : 0.0524, accuracy : 98.22
+iteration : 150, loss : 0.0585, accuracy : 98.01
+iteration : 200, loss : 0.0584, accuracy : 98.07
+iteration : 250, loss : 0.0559, accuracy : 98.15
+iteration : 300, loss : 0.0570, accuracy : 98.11
+Epoch : 294, training loss : 0.0566, training accuracy : 98.13, valicate loss : 0.3825, valicate accuracy : 89.81
+
+Epoch: 295
+iteration :  50, loss : 0.0550, accuracy : 98.28
+iteration : 100, loss : 0.0522, accuracy : 98.42
+iteration : 150, loss : 0.0520, accuracy : 98.36
+iteration : 200, loss : 0.0494, accuracy : 98.45
+iteration : 250, loss : 0.0498, accuracy : 98.45
+iteration : 300, loss : 0.0519, accuracy : 98.39
+Epoch : 295, training loss : 0.0526, training accuracy : 98.36, valicate loss : 0.4175, valicate accuracy : 88.51
+
+Epoch: 296
+iteration :  50, loss : 0.0578, accuracy : 97.88
+iteration : 100, loss : 0.0588, accuracy : 97.97
+iteration : 150, loss : 0.0556, accuracy : 98.05
+iteration : 200, loss : 0.0526, accuracy : 98.20
+iteration : 250, loss : 0.0499, accuracy : 98.29
+iteration : 300, loss : 0.0482, accuracy : 98.37
+Epoch : 296, training loss : 0.0483, training accuracy : 98.37, valicate loss : 0.3467, valicate accuracy : 90.77
+
+Epoch: 297
+iteration :  50, loss : 0.0383, accuracy : 98.83
+iteration : 100, loss : 0.0403, accuracy : 98.69
+iteration : 150, loss : 0.0402, accuracy : 98.67
+iteration : 200, loss : 0.0424, accuracy : 98.61
+iteration : 250, loss : 0.0456, accuracy : 98.48
+iteration : 300, loss : 0.0475, accuracy : 98.41
+Epoch : 297, training loss : 0.0484, training accuracy : 98.39, valicate loss : 0.4165, valicate accuracy : 89.01
+
+Epoch: 298
+iteration :  50, loss : 0.0557, accuracy : 98.27
+iteration : 100, loss : 0.0537, accuracy : 98.26
+iteration : 150, loss : 0.0521, accuracy : 98.27
+iteration : 200, loss : 0.0519, accuracy : 98.27
+iteration : 250, loss : 0.0523, accuracy : 98.24
+iteration : 300, loss : 0.0516, accuracy : 98.28
+Epoch : 298, training loss : 0.0512, training accuracy : 98.30, valicate loss : 0.3462, valicate accuracy : 90.64
+
+Epoch: 299
+iteration :  50, loss : 0.0479, accuracy : 98.41
+iteration : 100, loss : 0.0474, accuracy : 98.37
+iteration : 150, loss : 0.0490, accuracy : 98.35
+iteration : 200, loss : 0.0482, accuracy : 98.42
+iteration : 250, loss : 0.0485, accuracy : 98.44
+iteration : 300, loss : 0.0481, accuracy : 98.46
+Epoch : 299, training loss : 0.0479, training accuracy : 98.47, valicate loss : 0.3779, valicate accuracy : 89.95
+
+Epoch: 300
+iteration :  50, loss : 0.0464, accuracy : 98.42
+iteration : 100, loss : 0.0500, accuracy : 98.32
+iteration : 150, loss : 0.0511, accuracy : 98.36
+iteration : 200, loss : 0.0515, accuracy : 98.32
+iteration : 250, loss : 0.0508, accuracy : 98.35
+iteration : 300, loss : 0.0503, accuracy : 98.36
+Epoch : 300, training loss : 0.0500, training accuracy : 98.37, valicate loss : 0.3561, valicate accuracy : 90.43
