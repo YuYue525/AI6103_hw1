@@ -60,25 +60,25 @@ def show_images(max_batch_num):
         plt.imshow(make_grid(images, nrow=16).permute((1, 2, 0)))
         plt.savefig("batch_"+str(batch_num)+"_images.png")
         
-def plot_loss(train_loss, test_loss, save_path = None):
+def plot_loss(train_loss, test_loss, save_path = None, info=None):
     plt.cla()
     plt.plot(range(len(train_loss)), train_loss, 'b')
     plt.plot(range(len(test_loss)), test_loss, 'r')
     plt.xlabel("Number of epochs")
     plt.ylabel("Loss")
-    plt.title("ResNet: Loss vs Number of epochs")
+    plt.title("ResNet: Loss vs Number of epochs"+info)
     plt.legend(['train', 'test'])
     # plt.show()
     if save_path != None:
         plt.savefig(save_path)
     
-def plot_acc(train_acc, test_acc, save_path = None):
+def plot_acc(train_acc, test_acc, save_path = None, info=None):
     plt.cla()
     plt.plot(range(len(train_acc)), train_acc, 'b')
     plt.plot(range(len(test_acc)), test_acc, 'r')
     plt.xlabel("Number of epochs")
     plt.ylabel("Accuracy")
-    plt.title("ResNet: Accuracy vs Number of epochs")
+    plt.title("ResNet: Accuracy vs Number of epochs"+info)
     plt.legend(['train', 'test'])
     # plt.show()
     if save_path != None:
@@ -99,7 +99,7 @@ def data_preprocessing(randomerasing_value = None):
             transforms.RandomHorizontalFlip(),
             transforms.ToTensor(),
             transforms.Normalize((0.4914, 0.4822, 0.4465), (0.2023, 0.1994, 0.2010)),
-            transforms.RandomErasing(p=1, scale=(0.02, 0.33), ratio=(0.3, 3.3), value=randomerasing_value, inplace=False)
+            transforms.RandomErasing(p=1.0, scale=(0.02, 0.33), ratio=(0.3, 3.3), value=randomerasing_value, inplace=False)
         ])
 
     transform_test = transforms.Compose([
@@ -112,7 +112,7 @@ def data_preprocessing(randomerasing_value = None):
 
     classes = dataset.classes
 
-    train_set, val_set = torch.utils.data.random_split(dataset, [train_set_size, val_set_size])
+    train_set, val_set = torch.utils.data.random_split(dataset, [train_set_size, val_set_size], generator=torch.Generator().manual_seed(0))
     
     data_loader = torch.utils.data.DataLoader(dataset, batch_size = batch_size, shuffle = True, num_workers = 1)
 
@@ -338,17 +338,17 @@ if __name__ == "__main__":
     else:
         device = torch.device("cpu")
         
-    data_loader, _, _, _ = data_preprocessing()
+    _, train_loader, val_loader, test_loader = data_preprocessing()
 
-    means = tuple([float(x) for x in channel_means(data_loader)])
+    means = tuple([float(x) for x in channel_means(train_loader)])
     # print(means)
     
-    data_loader, train_loader, val_loader, test_loader = data_preprocessing(means)
+    _, train_loader, _, _ = data_preprocessing(means)
     
     net = ResNet18().to(device)
     criterion = nn.CrossEntropyLoss().to(device)
     optimizer = optim.SGD(net.parameters(), lr=config['lr'], momentum=config['momentum'], weight_decay=config['weight_decay'])
-    scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=200)
+    scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=300)
 
     epoch_train_loss = []
     epoch_val_loss = []
@@ -364,12 +364,15 @@ if __name__ == "__main__":
         epoch_train_acc.append(train_acc)
         epoch_val_acc.append(val_acc)
         
-        print(("Epoch : %3d, training loss : %0.4f, training accuracy : %2.2f, valicate loss " + \
-          ": %0.4f, valicate accuracy : %2.2f") % (epoch, train_loss, train_acc, val_loss, val_acc))
+        print(("Epoch : %3d, training loss : %0.4f, training accuracy : %2.2f, validate loss " + \
+          ": %0.4f, validate accuracy : %2.2f") % (epoch, train_loss, train_acc, val_loss, val_acc))
 
-        
-    plot_loss(epoch_train_loss, epoch_val_loss, "loss_epoch_300_cosine_annealing_weight_decay_random_erasing.jpg")
-    plot_acc(epoch_train_acc, epoch_val_acc, "acc_epoch_300_cosine_annealing_weight_decay_random_erasing.jpg")
+        '''
+        if epoch % 100 == 0 and epoch > 0:
+            save_checkpoint(net, val_acc, epoch)
+        '''
+    plot_loss(epoch_train_loss, epoch_val_loss, "loss_p_1.jpg", ", RA with p=1")
+    plot_acc(epoch_train_acc, epoch_val_acc, "acc_p_1.jpg", ", RA with p=1")
     
     test_loss, test_acc = test(epoch, net, criterion, test_loader)
     print(("test loss : %0.4f, test accuracy : %2.2f") % (test_loss, test_acc))
